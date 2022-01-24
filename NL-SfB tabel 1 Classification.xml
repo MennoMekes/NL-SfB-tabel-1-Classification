@@ -1,0 +1,6074 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<BuildingInformation>
+	<Classification>
+		<System>
+			<Name>NL-SfB tabel 1</Name>
+			<EditionVersion>Classification</EditionVersion>
+			<EditionDate>
+				<Year>2019</Year>
+				<Month>12</Month>
+				<Day>01</Day>
+			</EditionDate>
+			<Description>Kies hieronder een NL/SfB codering. Deze code wordt als ifc-classificatie aan het geselecteerde element toegevoegd. The NL/SfB (4 digits) standard defines a classification and information coding system for the AEC industry in the Netherlands.</Description>
+			<Source>http://bimloket.nl/NL-SfB</Source>
+			<Items>						
+				<Item>
+					<ID>0-.0</ID>
+					<Name>indirecte projectvoorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>0-.1</ID>
+							<Name>werkterreininrichtingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>0-.10</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.11</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, bijkomende werken algemeen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.12</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, personen/materiaalvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.13</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, energievoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.14</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, beveiligingsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.15</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, doorwerkvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.16</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, voorzieningen belendende percelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.17</ID>
+									<Name>indirecte projectvoorzieningen; werkterreininrichting, onderhoudsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>														
+						<Item>
+							<ID>0-.2</ID>
+							<Name>materieelvoorzieningen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>0-.20</ID>
+									<Name>indirecte projectvoorzieningen; materieelvoorzieningen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.21</ID>
+									<Name>indirecte projectvoorzieningen; materieelvoorzieningen, transport</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.22</ID>
+									<Name>indirecte projectvoorzieningen; materieelvoorzieningen, gereedschappen (algemeen)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>0-.3</ID>
+							<Name>risicodekking</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>0-.30</ID>
+									<Name>indirecte projectvoorzieningen; risicodekking, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.31</ID>
+									<Name>indirecte projectvoorzieningen; risicodekking, verzekeringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.32</ID>
+									<Name>indirecte projectvoorzieningen; risicodekking, waarborgen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.33</ID>
+									<Name>indirecte projectvoorzieningen; risicodekking, prijsstijgingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>0-.4</ID>
+							<Name>projectorganisatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>0-.40</ID>
+									<Name>indirecte projectvoorzieningen; projectorganisatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.41</ID>
+									<Name>indirecte projectvoorzieningen; projectorganisatie, administratie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.42</ID>
+									<Name>indirecte projectvoorzieningen; projectorganisatie, uitvoering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.43</ID>
+									<Name>indirecte projectvoorzieningen; projectorganisatie, documentatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>0-.5</ID>
+							<Name>bedrijfsorganisatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>0-.50</ID>
+									<Name>indirecte projectvoorzieningen; bedrijfsorganisatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.51</ID>
+									<Name>indirecte projectvoorzieningen; bedrijfsorganisatie, bestuur en directie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>0-.52</ID>
+									<Name>indirecte projectvoorzieningen; bedrijfsorganisatie, winstregelingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>	
+					</Children>
+				</Item>
+		<Item>
+			<ID>1-</ID>
+			<Name>FUNDERINGEN</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>11</ID>
+					<Name>Bodemvoorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>11.0</ID>
+							<Name>bodemvoorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>11.1</ID>
+							<Name>bodemvoorzieningen; grond</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>11.10</ID>
+									<Name>bodemvoorzieningen; grond, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>11.11</ID>
+									<Name>bodemvoorzieningen; grond, ontgravingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>11.12</ID>
+									<Name>bodemvoorzieningen; grond, aanvullingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>11.13</ID>
+									<Name>bodemvoorzieningen; grond, sloop- en rooiwerkzaamheden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>11.15</ID>
+									<Name>bodemvoorzieningen; grond, damwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>11.2</ID>
+							<Name>bodemvoorzieningen; water</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>11.20</ID>
+									<Name>bodemvoorzieningen; water, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>11.24</ID>
+									<Name>bodemvoorzieningen; water, bemalingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>11.25</ID>
+									<Name>bodemvoorzieningen; water, damwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>				
+					</Children>
+				</Item>
+				<Item>
+					<ID>13</ID>
+					<Name>Vloeren op grondslag</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>13.0</ID>
+							<Name>vloeren op grondslag; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>13.1</ID>
+							<Name>vloeren op grondslag; niet constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>13.10</ID>
+									<Name>vloeren op grondslag; niet constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>13.11</ID>
+									<Name>vloeren op grondslag; niet constructief, bodemafsluitingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>13.12</ID>
+									<Name>vloeren op grondslag; niet constructief, vloeren als gebouwonderdeel</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>13.13</ID>
+									<Name>vloeren op grondslag; niet constructief, vloeren als bestrating</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>13.2</ID>
+							<Name>vloeren op grondslag; constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>13.20</ID>
+									<Name>vloeren op grondslag; constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>13.21</ID>
+									<Name>vloeren op grondslag; constructief, bodemafsluitingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>13.22</ID>
+									<Name>vloeren op grondslag; constructief, vloeren als gebouwonderdeel</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>13.25</ID>
+									<Name>vloeren op grondslag; constructief, grondverbeteringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>16</ID>
+					<Name>Funderingsconstructies</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>16.0</ID>
+							<Name>funderingsconstructies; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>16.1</ID>
+							<Name>funderingsconstructies; voeten en balken</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>16.10</ID>
+									<Name>funderingsconstructies; voeten en balken, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.11</ID>
+									<Name>funderingsconstructies; voeten en balken, fundatie voeten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.12</ID>
+									<Name>funderingsconstructies; voeten en balken, fundatie balken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.13</ID>
+									<Name>funderingsconstructies; voeten en balken, fundatie poeren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.14</ID>
+									<Name>funderingsconstructies; voeten en balken, gevelwanden (-200)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.15</ID>
+									<Name>funderingsconstructies; voeten en balken, grondverbeteringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>16.2</ID>
+							<Name>funderingsconstructies; keerwanden</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>16.20</ID>
+									<Name>funderingsconstructies; keerwanden, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.21</ID>
+									<Name>funderingsconstructies; keerwanden, grondkerende wanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.22</ID>
+									<Name>funderingsconstructies; keerwanden, waterkerende wanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.23</ID>
+									<Name>funderingsconstructies; keerwanden, gevelwanden (-200)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>16.25</ID>
+									<Name>funderingsconstructies; keerwanden, grondverbeteringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>17</ID>
+					<Name>Paalfunderingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>17.0</ID>
+							<Name>paalfunderingen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>17.1</ID>
+							<Name>paalfunderingen; niet geheid</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>17.10</ID>
+									<Name>paalfunderingen; niet geheid, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.11</ID>
+									<Name>paalfunderingen; niet geheid, dragende palen; geboord</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.12</ID>
+									<Name>paalfunderingen; niet geheid, dragende palen; geschroefd</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.13</ID>
+									<Name>paalfunderingen; niet geheid, trekverankeringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.14</ID>
+									<Name>paalfunderingen; niet geheid, pijler-putringfunderingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.15</ID>
+									<Name>paalfunderingen; niet geheid, bodeminjecties</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>17.2</ID>
+							<Name>paalfunderingen; geheid</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>17.20</ID>
+									<Name>paalfunderingen; geheid, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.21</ID>
+									<Name>paalfunderingen; geheid, dragende palen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.22</ID>
+									<Name>paalfunderingen; geheid, palen; ingeheide bekisting</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.23</ID>
+									<Name>paalfunderingen; geheid, trekverankeringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>17.25</ID>
+									<Name>paalfunderingen; geheid, damwandenfunderingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+			</Children>
+		</Item>		
+		<Item>
+			<ID>2-</ID>
+			<Name>RUWBOUW</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>21</ID>
+					<Name>Buitenwanden</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>21.0</ID>
+							<Name>buitenwanden; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>21.1</ID>
+							<Name>buitenwanden; niet constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>21.10</ID>
+									<Name>buitenwanden; niet constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.11</ID>
+									<Name>buitenwanden; niet constructief, massieve wanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.12</ID>
+									<Name>buitenwanden; niet constructief, spouwwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.13</ID>
+									<Name>buitenwanden; niet constructief, systeemwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.14</ID>
+									<Name>buitenwanden; niet constructief, vlieswanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.15</ID>
+									<Name>buitenwanden; niet constructief, borstweringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.16</ID>
+									<Name>buitenwanden; niet constructief, boeiboorden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>21.2</ID>
+							<Name>buitenwanden; constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>21.20</ID>
+									<Name>buitenwanden; constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.21</ID>
+									<Name>buitenwanden; constructief, massieve wanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.22</ID>
+									<Name>buitenwanden; constructief, spouwwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.23</ID>
+									<Name>buitenwanden; constructief, systeemwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>21.25</ID>
+									<Name>buitenwanden; constructief, borstweringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>	
+					</Children>
+				</Item>						
+				<Item>
+					<ID>22</ID>
+					<Name>Binnenwanden</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>22.0</ID>
+							<Name>binnenwanden; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>22.1</ID>
+							<Name>binnenwanden; niet constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>22.10</ID>
+									<Name>binnenwanden; niet constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>22.11</ID>
+									<Name>binnenwanden; niet constructief, massieve wanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>22.12</ID>
+									<Name>binnenwanden; niet constructief, spouwwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>22.13</ID>
+									<Name>binnenwanden; niet constructief, systeemwanden; vast</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>22.14</ID>
+									<Name>binnenwanden; niet constructief, systeemwanden; verplaatsbaar</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>22.2</ID>
+							<Name>binnenwanden; constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>22.20</ID>
+									<Name>binnenwanden; constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>22.21</ID>
+									<Name>binnenwanden; constructief, massieve wanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>22.22</ID>
+									<Name>binnenwanden; constructief, spouwwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>22.23</ID>
+									<Name>binnenwanden; constructief, systeemwanden; vast</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>23</ID>
+					<Name>Vloeren</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>23.0</ID>
+							<Name>vloeren; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>23.1</ID>
+							<Name>vloeren; niet constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>23.10</ID>
+									<Name>vloeren; niet constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.11</ID>
+									<Name>vloeren; niet constructief, vrijdragende vloeren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.12</ID>
+									<Name>vloeren; niet constructief, balkons</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.13</ID>
+									<Name>vloeren; niet constructief, galerijen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.14</ID>
+									<Name>vloeren; niet constructief, bordessen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.15</ID>
+									<Name>vloeren; niet constructief, vloeren t.b.v. technische voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>23.2</ID>
+							<Name>vloeren; constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>23.20</ID>
+									<Name>vloeren; constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.21</ID>
+									<Name>vloeren; constructief, vrijdragende vloeren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.22</ID>
+									<Name>vloeren; constructief, balkons</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.23</ID>
+									<Name>vloeren; constructief, galerijen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.24</ID>
+									<Name>vloeren; constructief, bordessen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>23.25</ID>
+									<Name>vloeren; constructief, vloeren t.b.v. technische voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>24</ID>
+					<Name>Trappen en hellingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>24.0</ID>
+							<Name>trappen en hellingen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>24.1</ID>
+							<Name>trappen en hellingen; trappen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>24.10</ID>
+									<Name>trappen en hellingen; trappen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.11</ID>
+									<Name>trappen en hellingen; trappen, rechte steektrappen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.12</ID>
+									<Name>trappen en hellingen; trappen, niet-rechte steektrappen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.13</ID>
+									<Name>trappen en hellingen; trappen, spiltrappen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.15</ID>
+									<Name>trappen en hellingen; trappen, bordessen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>24.2</ID>
+							<Name>trappen en hellingen; hellingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>24.20</ID>
+									<Name>trappen en hellingen; hellingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.21</ID>
+									<Name>trappen en hellingen; hellingen, beloopbare hellingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.22</ID>
+									<Name>trappen en hellingen; hellingen, berijdbare hellingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.25</ID>
+									<Name>trappen en hellingen; hellingen, bordessen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>24.3</ID>
+							<Name>trappen en hellingen; ladders en klimijzers</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>24.30</ID>
+									<Name>trappen en hellingen; ladders en klimijzers, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.31</ID>
+									<Name>trappen en hellingen; ladders en klimijzers, ladders</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.32</ID>
+									<Name>trappen en hellingen; ladders en klimijzers, klimijzers</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>24.35</ID>
+									<Name>trappen en hellingen; ladders en klimijzers, bordessen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>27</ID>
+					<Name>Daken</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>27.0</ID>
+							<Name>daken; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>27.1</ID>
+							<Name>daken; niet constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>27.10</ID>
+									<Name>daken; niet constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.11</ID>
+									<Name>daken; niet constructief, vlakke daken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.12</ID>
+									<Name>daken; niet constructief, hellende daken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.13</ID>
+									<Name>daken; niet constructief, luifels</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.14</ID>
+									<Name>daken; niet constructief, overkappingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.16</ID>
+									<Name>daken; niet constructief, gootconstructies</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>27.2</ID>
+							<Name>daken; constructief</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>27.20</ID>
+									<Name>daken; constructief, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.21</ID>
+									<Name>daken; constructief, vlakke daken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.22</ID>
+									<Name>daken; constructief, hellende daken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.23</ID>
+									<Name>daken; constructief, luifels</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.24</ID>
+									<Name>daken; constructief, overkappingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>27.26</ID>
+									<Name>daken; constructief, gootconstructies</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>28</ID>
+					<Name>Hoofddraagconstructies</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>28.0</ID>
+							<Name>hoofddraagconstructies; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>28.1</ID>
+							<Name>hoofddraagconstructies; kolommen en liggers</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>28.10</ID>
+									<Name>hoofddraagconstructies; kolommen en liggers, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>28.11</ID>
+									<Name>hoofddraagconstructies; kolommen en liggers, kolom-/liggerconstructies</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>28.12</ID>
+									<Name>hoofddraagconstructies; kolommen en liggers, spanten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>28.2</ID>
+							<Name>hoofddraagconstructies; wanden en vloeren</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>28.20</ID>
+									<Name>hoofddraagconstructies; wanden en vloeren, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>28.21</ID>
+									<Name>hoofddraagconstructies; wanden en vloeren, wand-/vloerconstructies</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>28.3</ID>
+							<Name>hoofddraagconstructies; ruimte-eenheden</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>28.30</ID>
+									<Name>hoofddraagconstructies; ruimte-eenheden, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>28.31</ID>
+									<Name>hoofddraagconstructies; ruimte-eenheden, doosconstructies</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+			</Children>
+		</Item>				
+		<Item>
+			<ID>3-</ID>
+			<Name>AFBOUW</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>31</ID>
+					<Name>Buitenwandopeningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>31.0</ID>
+							<Name>buitenwandopeningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>31.1</ID>
+							<Name>buitenwandopeningen; niet gevuld</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>31.10</ID>
+									<Name>buitenwandopeningen; niet gevuld, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.11</ID>
+									<Name>buitenwandopeningen; niet gevuld, daglichtopeningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.12</ID>
+									<Name>buitenwandopeningen; niet gevuld, buitenluchtopeningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>31.2</ID>
+							<Name>buitenwandopeningen; gevuld met ramen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>31.20</ID>
+									<Name>buitenwandopeningen; gevuld met ramen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.21</ID>
+									<Name>buitenwandopeningen; gevuld met ramen, gesloten ramen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.22</ID>
+									<Name>buitenwandopeningen; gevuld met ramen, ramen draaiend aan één kant</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.23</ID>
+									<Name>buitenwandopeningen; gevuld met ramen, schuiframen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.24</ID>
+									<Name>buitenwandopeningen; gevuld met ramen, ramen draaiend op verticale of horizontale as</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.25</ID>
+									<Name>buitenwandopeningen; gevuld met ramen, combinatieramen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>31.3</ID>
+							<Name>buitenwandopeningen; gevuld met deuren</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>31.30</ID>
+									<Name>buitenwandopeningen; gevuld met deuren, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.31</ID>
+									<Name>buitenwandopeningen; gevuld met deuren, draaideuren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.32</ID>
+									<Name>buitenwandopeningen; gevuld met deuren, schuifdeuren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.33</ID>
+									<Name>buitenwandopeningen; gevuld met deuren, tuimeldeuren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.34</ID>
+									<Name>buitenwandopeningen; gevuld met deuren, tourniquets</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>31.4</ID>
+							<Name>buitenwandopeningen; gevuld met puien</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>31.40</ID>
+									<Name>buitenwandopeningen; gevuld met puien, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>31.41</ID>
+									<Name>buitenwandopeningen; gevuld met puien, gesloten puien</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>32</ID>
+					<Name>Binnenwandopeningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>32.0</ID>
+							<Name>binnenwandopeningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>32.1</ID>
+							<Name>binnenwandopeningen; niet gevuld</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>32.10</ID>
+									<Name>binnenwandopeningen; niet gevuld, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.11</ID>
+									<Name>binnenwandopeningen; niet gevuld, openingen als doorgang</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.12</ID>
+									<Name>binnenwandopeningen; niet gevuld, openingen als doorzicht</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>32.2</ID>
+							<Name>binnenwandopeningen; gevuld met ramen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>32.20</ID>
+									<Name>binnenwandopeningen; gevuld met ramen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.21</ID>
+									<Name>binnenwandopeningen; gevuld met ramen, gesloten ramen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.22</ID>
+									<Name>binnenwandopeningen; gevuld met ramen, ramen draaiend aan één kant</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.23</ID>
+									<Name>binnenwandopeningen; gevuld met ramen, schuiframen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.24</ID>
+									<Name>binnenwandopeningen; gevuld met ramen, ramen draaiend op verticale of horizontale as</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.25</ID>
+									<Name>binnenwandopeningen; gevuld met ramen, combinatieramen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>32.3</ID>
+							<Name>binnenwandopeningen; gevuld met deuren</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>32.30</ID>
+									<Name>binnenwandopeningen; gevuld met deuren, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.31</ID>
+									<Name>binnenwandopeningen; gevuld met deuren, draaideuren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.32</ID>
+									<Name>binnenwandopeningen; gevuld met deuren, schuifdeuren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.33</ID>
+									<Name>binnenwandopeningen; gevuld met deuren, tuimeldeuren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.34</ID>
+									<Name>binnenwandopeningen; gevuld met deuren, tourniquets</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>32.4</ID>
+							<Name>binnenwandopeningen; gevuld met puien</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>32.40</ID>
+									<Name>binnenwandopeningen; gevuld met puien, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>32.41</ID>
+									<Name>binnenwandopeningen; gevuld met puien, gesloten puien</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+					</Children>
+				</Item>						
+				<Item>
+					<ID>33</ID>
+					<Name>Vloeropeningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>33.0</ID>
+							<Name>vloeropeningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>33.1</ID>
+							<Name>vloeropeningen; niet gevuld</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>33.10</ID>
+									<Name>vloeropeningen; niet gevuld, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>33.11</ID>
+									<Name>vloeropeningen; niet gevuld, openingen als doorgang</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>33.12</ID>
+									<Name>vloeropeningen; niet gevuld, openingen als doorzicht</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>33.2</ID>
+							<Name>vloeropeningen; gevuld</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>33.20</ID>
+									<Name>vloeropeningen; gevuld, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>33.21</ID>
+									<Name>vloeropeningen; gevuld, beloopbare vullingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>33.22</ID>
+									<Name>vloeropeningen; gevuld, niet-beloopbare vullingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+					</Children>
+				</Item>
+				<Item>
+					<ID>34</ID>
+					<Name>Balustrades en leuningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>34.0</ID>
+							<Name>balustrades en leuningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>34.1</ID>
+							<Name>balustrades en leuningen; balustrades</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>34.10</ID>
+									<Name>balustrades en leuningen; balustrades, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>34.11</ID>
+									<Name>balustrades en leuningen; balustrades, binnenbalustrades</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>34.12</ID>
+									<Name>balustrades en leuningen; balustrades, buitenbalustrades</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>34.2</ID>
+							<Name>balustrades en leuningen; leuningen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>34.20</ID>
+									<Name>balustrades en leuningen; leuningen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>34.21</ID>
+									<Name>balustrades en leuningen; leuningen, binnenleuningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>34.22</ID>
+									<Name>balustrades en leuningen; leuningen, buitenleuningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+					</Children>
+				</Item>				
+				<Item>
+					<ID>37</ID>
+					<Name>Dakopeningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>37.0</ID>
+							<Name>dakopeningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>37.1</ID>
+							<Name>dakopeningen; niet gevuld</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>37.10</ID>
+									<Name>dakopeningen; niet gevuld, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>37.11</ID>
+									<Name>dakopeningen; niet gevuld, daglichtopeningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>37.12</ID>
+									<Name>dakopeningen; niet gevuld, buitenluchtopeningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>37.2</ID>
+							<Name>dakopeningen; gevuld</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>37.20</ID>
+									<Name>dakopeningen; gevuld, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>37.21</ID>
+									<Name>dakopeningen; gevuld, gesloten ramen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>37.22</ID>
+									<Name>dakopeningen; gevuld, ramen draaiend aan één kant</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>37.23</ID>
+									<Name>dakopeningen; gevuld, schuiframen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>37.24</ID>
+									<Name>dakopeningen; gevuld, ramen draaiend op een as</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>37.25</ID>
+									<Name>dakopeningen; gevuld, combinatieramen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+					</Children>
+				</Item>
+				<Item>
+					<ID>38</ID>
+					<Name>Inbouwpakketten</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>38.0</ID>
+							<Name>inbouwpakketten; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>38.1</ID>
+							<Name>inbouwpakketten</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>38.10</ID>
+									<Name>inbouwpakketten; algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>38.11</ID>
+									<Name>inbouwpakketten; inbouwpakketten met te openen delen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>38.12</ID>
+									<Name>inbouwpakketten; inbouwpakketten met gesloten delen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+			</Children>
+		</Item>				
+		<Item>
+			<ID>4-</ID>
+			<Name>AFWERKINGEN</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>41</ID>
+					<Name>Buitenwandafwerkingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>41.0</ID>
+							<Name>buitenwandafwerkingen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>41.1</ID>
+							<Name>buitenwandafwerkingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>41.10</ID>
+									<Name>buitenwandafwerkingen; algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>41.11</ID>
+									<Name>buitenwandafwerkingen; afwerklagen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>41.12</ID>
+									<Name>buitenwandafwerkingen; bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>41.13</ID>
+									<Name>buitenwandafwerkingen; voorzetwanden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+					</Children>
+				</Item>						
+				<Item>
+					<ID>42</ID>
+					<Name>Binnenwandafwerkingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>42.0</ID>
+							<Name>binnenwandafwerkingen; algemeen</Name>
+							<Description/>
+							<Children/>							
+						</Item>							
+						<Item>
+							<ID>42.1</ID>
+							<Name>binnenwandafwerkingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>42.10</ID>
+									<Name>binnenwandafwerkingen; algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>42.11</ID>
+									<Name>binnenwandafwerkingen; afwerklagen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>42.12</ID>
+									<Name>binnenwandafwerkingen; bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>43</ID>
+					<Name>Vloerafwerkingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>43.0</ID>
+							<Name>vloerafwerkingen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>43.1</ID>
+							<Name>vloerafwerkingen; verhoogd</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>43.10</ID>
+									<Name>vloerafwerkingen; verhoogd, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>43.11</ID>
+									<Name>vloerafwerkingen; verhoogd, podiums</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>43.12</ID>
+									<Name>vloerafwerkingen; verhoogd, installatievloeren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>43.2</ID>
+							<Name>vloerafwerkingen; niet verhoogd</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>43.20</ID>
+									<Name>vloerafwerkingen; niet verhoogd, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>43.21</ID>
+									<Name>vloerafwerkingen; niet verhoogd, afwerklagen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>43.22</ID>
+									<Name>vloerafwerkingen; niet verhoogd, bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>43.23</ID>
+									<Name>vloerafwerkingen; niet verhoogd, systeemvloerafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>44</ID>
+					<Name>Trap- en hellingafwerkingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>44.0</ID>
+							<Name>trap- en hellingafwerkingen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>44.1</ID>
+							<Name>trap- en hellingafwerkingen; trapafwerkingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>44.10</ID>
+									<Name>trap- en hellingafwerkingen; trapafwerkingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>44.11</ID>
+									<Name>trap- en hellingafwerkingen; trapafwerkingen, afwerklagen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>44.12</ID>
+									<Name>trap- en hellingafwerkingen; trapafwerkingen, bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>44.13</ID>
+									<Name>trap- en hellingafwerkingen; trapafwerkingen, systeemafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>44.2</ID>
+							<Name>trap- en hellingafwerkingen; hellingafwerkingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>44.20</ID>
+									<Name>trap- en hellingafwerkingen; hellingafwerkingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>44.21</ID>
+									<Name>trap- en hellingafwerkingen; hellingafwerkingen, afwerklagen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>44.22</ID>
+									<Name>trap- en hellingafwerkingen; hellingafwerkingen, bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>44.23</ID>
+									<Name>trap- en hellingafwerkingen; hellingafwerkingen, systeemafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>45</ID>
+					<Name>Plafondafwerkingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>45.0</ID>
+							<Name>plafondafwerkingen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>45.1</ID>
+							<Name>plafondafwerkingen; verlaagd</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>45.10</ID>
+									<Name>plafondafwerkingen; verlaagd, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.11</ID>
+									<Name>plafondafwerkingen; verlaagd, verlaagde plafonds</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.12</ID>
+									<Name>plafondafwerkingen; verlaagd, systeemplafonds</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.14</ID>
+									<Name>plafondafwerkingen; verlaagd, koofconstructies</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.15</ID>
+									<Name>plafondafwerkingen; verlaagd, gordijnplanken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>45.2</ID>
+							<Name>plafondafwerkingen; niet verlaagd</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>45.20</ID>
+									<Name>plafondafwerkingen; niet verlaagd, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.21</ID>
+									<Name>plafondafwerkingen; niet verlaagd, afwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.22</ID>
+									<Name>plafondafwerkingen; niet verlaagd, bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.23</ID>
+									<Name>plafondafwerkingen; niet verlaagd, systeemafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.24</ID>
+									<Name>plafondafwerkingen; niet verlaagd, koofconstructies</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>45.25</ID>
+									<Name>plafondafwerkingen; niet verlaagd, gordijnplanken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>47</ID>
+					<Name>Dakafwerkingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>47.0</ID>
+							<Name>dakafwerkingen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>47.1</ID>
+							<Name>dakafwerkingen; afwerkingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>47.10</ID>
+									<Name>dakafwerkingen; afwerkingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.11</ID>
+									<Name>dakafwerkingen; afwerkingen, vlakke dakafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.12</ID>
+									<Name>dakafwerkingen; afwerkingen, hellende dakafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.13</ID>
+									<Name>dakafwerkingen; afwerkingen, luifelafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.14</ID>
+									<Name>dakafwerkingen; afwerkingen, overkappingsafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.15</ID>
+									<Name>dakafwerkingen; afwerkingen, beloopbare dakafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.16</ID>
+									<Name>dakafwerkingen; afwerkingen, berijdbare dakafwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>47.2</ID>
+							<Name>dakafwerkingen; bekledingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>47.20</ID>
+									<Name>dakafwerkingen; bekledingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.21</ID>
+									<Name>dakafwerkingen; bekledingen, vlakke dak bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.22</ID>
+									<Name>dakafwerkingen; bekledingen, hellende dak bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.23</ID>
+									<Name>dakafwerkingen; bekledingen, luifel bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.24</ID>
+									<Name>dakafwerkingen; bekledingen, overkapping bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.25</ID>
+									<Name>dakafwerkingen; bekledingen, beloopbare dak bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>47.26</ID>
+									<Name>dakafwerkingen; bekledingen, berijdbare dak  bekledingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>48</ID>
+					<Name>Afwerkingpakketten</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>48.0</ID>
+							<Name>afwerkingspakketten; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>48.1</ID>
+							<Name>afwerkingspakketten</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>48.10</ID>
+									<Name>afwerkingspakketten; algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>48.11</ID>
+									<Name>afwerkingspakketten; naadloze afwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>48.12</ID>
+									<Name>afwerkingspakketten; overige afwerkingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+			</Children>
+		</Item>				
+		<Item>
+			<ID>5-</ID>
+			<Name>INSTALLATIES WERKTUIGBOUWKUNDIG</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>52</ID>
+					<Name>Afvoeren</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>52.0</ID>
+							<Name>afvoeren; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>52.1</ID>
+							<Name>afvoeren; regenwater</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>52.10</ID>
+									<Name>afvoeren; regenwater, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.11</ID>
+									<Name>afvoeren; regenwater, afvoerinstallatie; in het gebouw</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.12</ID>
+									<Name>afvoeren; regenwater, afvoerinstallatie; buiten het gebouw</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.16</ID>
+									<Name>afvoeren; regenwater, pompsysteem, afscheiders, bezinkputten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.19</ID>
+									<Name>afvoeren; regenwater, berging, infiltratie </Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>52.2</ID>
+							<Name>afvoeren; fecaliën</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>52.20</ID>
+									<Name>afvoeren; fecaliën, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.21</ID>
+									<Name>afvoeren; fecaliën, standaardsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.22</ID>
+									<Name>afvoeren; fecaliën, vacuümsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.23</ID>
+									<Name>afvoeren; fecaliën, overdruksysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.24</ID>
+									<Name>afvoeren; fecaliën, gescheiden (urine)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.26</ID>
+									<Name>afvoeren; fecaliën, pompsysteem, afscheiders, bezinkputten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>52.3</ID>
+							<Name>afvoeren; afvalwater</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>52.30</ID>
+									<Name>afvoeren; afvalwater, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.31</ID>
+									<Name>afvoeren; afvalwater, huishoudelijk afval</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.32</ID>
+									<Name>afvoeren; afvalwater, bedrijfsafval</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.36</ID>
+									<Name>afvoeren; afvalwater, pompsysteem, afscheiders, bezinkputten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>52.4</ID>
+							<Name>afvoeren; gecombineerd</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>52.40</ID>
+									<Name>afvoeren; gecombineerd, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.41</ID>
+									<Name>afvoeren; gecombineerd, geïntegreerd systeem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.46</ID>
+									<Name>afvoeren; gecombineerd, pompsysteem, afscheiders, bezinkputten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>52.5</ID>
+							<Name>afvoeren; vuilwaterafvoer speciaal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>52.50</ID>
+									<Name>afvoeren; vuilwaterafvoer speciaal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.51</ID>
+									<Name>afvoeren; vuilwaterafvoer speciaal, chemisch verontreinigd afvalwater</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.52</ID>
+									<Name>afvoeren; vuilwaterafvoer speciaal, biologisch besmet afvalwater</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.53</ID>
+									<Name>afvoeren; vuilwaterafvoer speciaal, radioactief besmet afvalwater</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.56</ID>
+									<Name>afvoeren; vuilwaterafvoer speciaal, pompsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>52.6</ID>
+							<Name>afvoeren; vaste stoffen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>52.60</ID>
+									<Name>afvoeren; vaste stoffen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.61</ID>
+									<Name>afvoeren; vaste stoffen, stortkokers</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.62</ID>
+									<Name>afvoeren; vaste stoffen, vacuümsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.63</ID>
+									<Name>afvoeren; vaste stoffen, persluchtsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.64</ID>
+									<Name>afvoeren; vaste stoffen, verdichtingsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>52.65</ID>
+									<Name>afvoeren; vaste stoffen, verbrandingsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>52.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij afvoeren</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>52.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij afvoeren, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>53</ID>
+					<Name>Water</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>53.0</ID>
+							<Name>water; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>53.1</ID>
+							<Name>water; drinkwater</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>53.10</ID>
+									<Name>water; drinkwater, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.11</ID>
+									<Name>water; drinkwater, netaansluiting</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.12</ID>
+									<Name>water; drinkwater, bronaansluiting</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.13</ID>
+									<Name>water; drinkwater, reinwaterkelderaansluiting / ringleiding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.16</ID>
+									<Name>water; drinkwater, drukverhogingsinstallatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.19</ID>
+									<Name>water; drinkwater, voorraadvaten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>53.2</ID>
+							<Name>water; verwarmd tapwater</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>53.20</ID>
+									<Name>water; verwarmd tapwater, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.21</ID>
+									<Name>water; verwarmd tapwater, met voorraad</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.23</ID>
+									<Name>water; verwarmd tapwater, doorstroom</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>53.3</ID>
+							<Name>water; bedrijfswater</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>53.30</ID>
+									<Name>water; bedrijfswater, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.31</ID>
+									<Name>water; bedrijfswater, onthard-watersysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.32</ID>
+									<Name>water; bedrijfswater, demi-watersysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.33</ID>
+									<Name>water; bedrijfswater, gedistilleerd-watersysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.34</ID>
+									<Name>water; bedrijfswater, zwembad-watersysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.36</ID>
+									<Name>water; bedrijfswater; drukverhogingsinstallatie </Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.37</ID>
+									<Name>water; bedrijfswater, onderbrekingsinstallatie (breektank)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.39</ID>
+									<Name>water; bedrijfswater, voorraadvaten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>53.4</ID>
+							<Name>water; gebruiksstoom en condens</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>53.40</ID>
+									<Name>water; gebruiksstoom en condens, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.41</ID>
+									<Name>water; gebruiksstoom en condens, lage-druk stoomsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.42</ID>
+									<Name>water; gebruiksstoom en condens, hoge-druk stoomsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>53.5</ID>
+							<Name>water; waterbehandeling</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>53.50</ID>
+									<Name>water; waterbehandeling, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.51</ID>
+									<Name>water; waterbehandeling, filtratiesysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.52</ID>
+									<Name>water; waterbehandeling, absorptiesysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.53</ID>
+									<Name>water; waterbehandeling, ontgassingsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>53.54</ID>
+									<Name>water; waterbehandeling, destillatiesysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>53.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij water</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>53.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij water, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>54</ID>
+					<Name>Gassen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>54.0</ID>
+							<Name>gassen; algemeen</Name>
+							<Description/>
+							<Children/>							
+						</Item>							
+						<Item>
+							<ID>54.1</ID>
+							<Name>gassen, brandstof</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>54.10</ID>
+									<Name>gassen; brandstof, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.11</ID>
+									<Name>gassen; brandstof, aardgasvoorziening / menggasvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.12</ID>
+									<Name>gassen; brandstof, butaanvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.13</ID>
+									<Name>gassen; brandstof, propaanvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.14</ID>
+									<Name>gassen; brandstof, LPG-voorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.15</ID>
+									<Name>gassen; brandstof, biogasvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.16</ID>
+									<Name>gassen; brandstof, waterstofvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>54.2</ID>
+							<Name>gassen; perslucht</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>54.20</ID>
+									<Name>gassen; perslucht, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.21</ID>
+									<Name>gassen; perslucht, persluchtvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.23</ID>
+									<Name>gassen; perslucht, compressor</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.24</ID>
+									<Name>gassen; perslucht, buffertank</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>54.3</ID>
+							<Name>gassen; medisch</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>54.30</ID>
+									<Name>gassen; medisch, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.31</ID>
+									<Name>gassen; medisch, zuurstofvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.32</ID>
+									<Name>gassen; medisch, carbogeenvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.33</ID>
+									<Name>gassen; medisch, lachgasvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.34</ID>
+									<Name>gassen; medisch, koolzuurvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.35</ID>
+									<Name>gassen; medisch, medische luchtvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>54.4</ID>
+							<Name>gassen; technisch</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>54.40</ID>
+									<Name>gassen; technisch, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.41</ID>
+									<Name>gassen; technisch, stikstofvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.42</ID>
+									<Name>gassen; technisch, waterstofvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.43</ID>
+									<Name>gassen; technisch, argonvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.44</ID>
+									<Name>gassen; technisch, heliumvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.45</ID>
+									<Name>gassen; technisch, acetyleenvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.46</ID>
+									<Name>gassen; technisch, propaanvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.47</ID>
+									<Name>gassen; technisch, koolzuurvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.48</ID>
+									<Name>gassen; technisch, zuurstofvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.49</ID>
+									<Name>gassen; technisch, methaanvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>54.5</ID>
+							<Name>gassen, bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>54.50</ID>
+									<Name>gassen; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.51</ID>
+									<Name>gassen; bijzonder, voorziening; zuivere gassen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.52</ID>
+									<Name>gassen; bijzonder, voorziening; menggassen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>54.6</ID>
+							<Name>gassen; vacuüm</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>54.60</ID>
+									<Name>gassen; vacuüm, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.61</ID>
+									<Name>gassen; vacuüm, vacuümvoorziening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>54.63</ID>
+									<Name>gassen; vacuüm, pompsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>54.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij gassen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>54.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij gassen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>55</ID>
+					<Name>Koeling</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>55.0</ID>
+							<Name>koeling; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>55.1</ID>
+							<Name>koeling; opwekking lokaal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>55.10</ID>
+									<Name>koeling; lokaal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.11</ID>
+									<Name>koeling; lokaal, raamkoelers/splitsystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.13</ID>
+									<Name>koeling; lokaal, compactsystemen (packaged)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>55.2</ID>
+							<Name>koeling; opwekking centraal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>55.20</ID>
+									<Name>koeling; opwekking centraal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.21</ID>
+									<Name>koeling; opwekking centraal, warmtepompsystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.22</ID>
+									<Name>koeling; opwekking centraal, absorptiesystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.23</ID>
+									<Name>koeling; opwekking centraal, grondwatersystemen (incl. tegenstroomapparaat)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.24</ID>
+									<Name>koeling; opwekking centraal, oppervlaktewatersystemen (incl. tegenstroomapparaat)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.26</ID>
+									<Name>koeling; opwekking centraal, vrije-koeling</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.27</ID>
+									<Name>koeling; opwekking centraal, warmte koude opslag (WKO compleet incl. tegenstroomapparaat)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.28</ID>
+									<Name>koeling; opwekking centraal, koudenet</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>55.3</ID>
+							<Name>koeling; distributie hoofdverdeling (t/m verdeler/verzamelaar)</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>55.30</ID>
+									<Name>koeling; distributie hoofdverdeling, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.31</ID>
+									<Name>koeling; distributie hoofdverdeling, distributiesystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+						<Item>
+							<ID>55.4</ID>
+							<Name>koeling; distributie (vanaf verdeler/verzamelaar)</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>55.40</ID>
+									<Name>koeling; distributie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.41</ID>
+									<Name>koeling; distributie, distributiesystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>55.5</ID>
+							<Name>koeling, opslag</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>55.50</ID>
+									<Name>koeling; opslag, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>55.8</ID>
+							<Name>koeling; afgifte</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>55.80</ID>
+									<Name>koeling; afgifte, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.81</ID>
+									<Name>koeling; afgifte, fancoil /inductie units, nakoelers</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.83</ID>
+									<Name>koeling; afgifte, koel(klimaat)plafonds</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>55.84</ID>
+									<Name>koeling; afgifte, vloerkoeling/wandkoeling</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>55.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij koeling</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>55.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij koeling, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>56</ID>
+					<Name>Verwarming</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>56.0</ID>
+							<Name>verwarming; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>56.1</ID>
+							<Name>verwarming; opwekking lokaal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>56.10</ID>
+									<Name>verwarming; opwekking lokaal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.11</ID>
+									<Name>verwarming; opwekking lokaal, direct gestookte toestellen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.12</ID>
+									<Name>verwarming; opwekking lokaal, stoombevochtigers</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>56.2</ID>
+							<Name>verwarming; opwekking centraal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>56.20</ID>
+									<Name>verwarming; opwekking centraal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.21</ID>
+									<Name>verwarming; opwekking centraal, verwarmingstoestellen (ketels, HR, VR, biomassa)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.22</ID>
+									<Name>verwarming; opwekking centraal, stoomketels en toebehoren (ontgassers, etc.)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.23</ID>
+									<Name>verwarming; opwekking centraal, warmtekrachtkoppeling (WKK) en toebehoren </Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.25</ID>
+									<Name>verwarming; opwekking centraal, zonnecollectoren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.26</ID>
+									<Name>verwarming; opwekking centraal, electrolyser, brandstofcel</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.27</ID>
+									<Name>verwarming; opwekking centraal, aardwarmte (geothermie)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.28</ID>
+									<Name>verwarming; opwekking centraal, warmtenet</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>56.3</ID>
+							<Name>verwarming; distributie hoofdverdeling (t/m verdeler/verzamelaar)</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>56.30</ID>
+									<Name>verwarming; distributie hoofdverdeling , algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.31</ID>
+									<Name>verwarming; distributie hoofdverdeling, distributiesystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>56.4</ID>
+							<Name>verwarming; distributie (vanaf verdeler/verzamelaar)</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>56.40</ID>
+									<Name>verwarming; distributie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.41</ID>
+									<Name>verwarming; distributie, distributiesystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>56.5</ID>
+							<Name>verwarming; opslag</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>56.50</ID>
+									<Name>verwarming; opslag, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>56.8</ID>
+							<Name>verwarming; afgifte</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>56.80</ID>
+									<Name>verwarming; afgifte, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.81</ID>
+									<Name>verwarming; afgifte, radiator/convectorsystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.83</ID>
+									<Name>verwarming; afgifte, warmte(klimaat)plafonds</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.84</ID>
+									<Name>verwarming; afgifte, vloerverwarming/wandverwarming</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>56.86</ID>
+									<Name>verwarming; afgifte, stralingspanelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>56.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij verwarming</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>56.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij verwarming, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>57</ID>
+					<Name>Luchtbehandeling</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>57.0</ID>
+							<Name>luchtbehandeling; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>57.1</ID>
+							<Name>luchtbehandeling; natuurlijk</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>57.10</ID>
+									<Name>luchtbehandeling; natuurlijk, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.11</ID>
+									<Name>luchtbehandeling; natuurlijk, voorzieningen; regelbaar</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.12</ID>
+									<Name>luchtbehandeling; natuurlijk, voorzieningen; niet regelbaar</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>57.2</ID>
+							<Name>luchtbehandeling; mechanisch lokaal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>57.20</ID>
+									<Name>luchtbehandeling; mechanisch lokaal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.21</ID>
+									<Name>luchtbehandeling; mechanisch lokaal, ventilatie-installatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.22</ID>
+									<Name>luchtbehandeling; mechanisch lokaal, afzuiginstallatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>57.3</ID>
+							<Name>luchtbehandeling; mechanisch centraal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>57.30</ID>
+									<Name>luchtbehandeling; mechanisch centraal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.31</ID>
+									<Name>luchtbehandeling; mechanisch centraal, ventilatie-installatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.32</ID>
+									<Name>luchtbehandeling; mechanisch centraal, afzuiginstallatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>57.4</ID>
+							<Name>luchtbehandeling; distributie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>57.40</ID>
+									<Name>luchtbehandeling; distributie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.41</ID>
+									<Name>luchtbehandeling; distributie, kanalen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.42</ID>
+									<Name>luchtbehandeling; distributie, kanalen separate afzuigsystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>57.8</ID>
+							<Name>luchtbehandeling; afgifte</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>57.80</ID>
+									<Name>luchtbehandeling; afgifte, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.81</ID>
+									<Name>luchtbehandeling; afgifte, appendages</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>57.82</ID>
+									<Name>luchtbehandeling; afgifte, roosters</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>57.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij luchtbehandeling</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>57.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij luchtbehandeling, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>58</ID>
+					<Name>Meet- en regelinstallaties</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>58.0</ID>
+							<Name>meet- en regelinstallaties; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>58.1</ID>
+							<Name>meet- en regelinstallaties; verdeling lokaal inclusief regelapparatuur</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>58.10</ID>
+									<Name>meet- en regelinstallaties; verdeling lokaal inclusief regelapparatuur, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.11</ID>
+									<Name>meet- en regelinstallaties; verdeling lokaal inclusief regelapparatuur, specifieke regeling</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>58.2</ID>
+							<Name>meet- en regelinstallaties; verdeling centraal Gebouw Beheer Systeem (GBS)</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>58.20</ID>
+									<Name>meet- en regelinstallaties; verdeling centraal Gebouw Beheer Systeem (GBS), algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.21</ID>
+									<Name>meet- en regelinstallaties; verdeling centraal Gebouw Beheer Systeem (GBS), hardware</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.22</ID>
+									<Name>meet- en regelinstallaties; verdeling centraal Gebouw Beheer Systeem (GBS), software</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>58.6</ID>
+							<Name>meet- en regelinstallaties; distributie centraal</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>58.60</ID>
+									<Name>meet- en regelinstallaties; distributie centraal, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.61</ID>
+									<Name>meet- en regelinstallaties; distributie centraal, regelkasten voedingen / krachtstroom</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.62</ID>
+									<Name>meet- en regelinstallaties; distributie centraal, regelkasten zwakstroom (DDC)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.66</ID>
+									<Name>meet- en regelinstallaties; distributie centraal, bekabeling, voedingsleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.67</ID>
+									<Name>meet- en regelinstallaties; distributie centraal, bekabeling, signaalleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>58.8</ID>
+							<Name>meet- en regelinstallaties; meting en sturing</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>58.80</ID>
+									<Name>meet- en regelinstallaties; meting en sturing, veldapparatuur, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.81</ID>
+									<Name>meet- en regelinstallaties; meting en sturing, veldapparatuur, centrale gebouwinstallaties</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>58.82</ID>
+									<Name>meet- en regelinstallaties; meting en sturing, veldapparatuur, naregelingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>58.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij regeling werktuigkundige installaties</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>58.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij regeling werktuigkundige installaties, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>59</ID>
+					<Name>Werktuigkundige brandveiligheid</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>59.0</ID>
+							<Name>brandveiligheid; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>59.1</ID>
+							<Name>brandveiligheid; gasblusinstallatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>59.10</ID>
+									<Name>brandveiligheid; gasblusinstallatie; algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.11</ID>
+									<Name>brandveiligheid; gasblusinstallatie; inergen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.12</ID>
+									<Name>brandveiligheid; gasblusinstallatie; chemisch</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.13</ID>
+									<Name>brandveiligheid; gasblusinstallatie; zuurstofreductie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>59.2</ID>
+							<Name>brandveiligheid; waterblusinstallatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>59.20</ID>
+									<Name>brandveiligheid; waterblusinstallatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.21</ID>
+									<Name>brandveiligheid; waterblusinstallatie, sprinkler</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.22</ID>
+									<Name>brandveiligheid; waterblusinstallatie, watermistinstallatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.23</ID>
+									<Name>brandveiligheid; waterblusinstallatie, droge blusleiding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.24</ID>
+									<Name>brandveiligheid; waterblusinstallatie, brandslanghaspels</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>59.3</ID>
+							<Name>brandveiligheid; brandventilatieinstallatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>59.30</ID>
+									<Name>brandveiligheid; brandventilatieinstallatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.31</ID>
+									<Name>brandveiligheid; brandventilatieinstallatie, rook/warmte afvoer</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>59.32</ID>
+									<Name>brandveiligheid; brandventilatieinstallatie, overdrukinstallatie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>59.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij brandveiligheid</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>59.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij brandveiligheid, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+					</Children>
+				</Item>
+			</Children>
+		</Item>				
+		<Item>
+			<ID>6-</ID>
+			<Name>INSTALLATIES ELEKTROTECHNISCH</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>61</ID>
+					<Name>Centrale elektrotechnische voorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>61.0</ID>
+							<Name>centrale elektrotechnische voorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>61.1</ID>
+							<Name>centrale elektrotechnische voorzieningen; energie-opwekking</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>61.10</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.11</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, noodverlichtingsunits, centraal</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.12</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, nobreak units statisch</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.13</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, noodstroomaggregaat</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.14</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, nobreak units dynamisch</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.15</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, Photo Voltaic (PV) panelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.16</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, wind-energie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.17</ID>
+									<Name>centrale elektrotechnische voorzieningen; energie-opwekking, brandstofcel</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>61.2</ID>
+							<Name>centrale elektrotechnische voorzieningen; aarding en bliksembeveiliging</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>61.20</ID>
+									<Name>centrale elektrotechnische voorzieningen; aarding, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.21</ID>
+									<Name>centrale elektrotechnische voorzieningen; aarding, veiligheidsaarding/overspanning</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.22</ID>
+									<Name>centrale elektrotechnische voorzieningen; aarding, medische aarding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.23</ID>
+									<Name>centrale elektrotechnische voorzieningen; aarding, speciale aarding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.24</ID>
+									<Name>centrale elektrotechnische voorzieningen; aarding, statische elektriciteit</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.26</ID>
+									<Name>centrale elektrotechnische voorzieningen; aarding, potentiaalvereffening</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.27</ID>
+									<Name>centrale elektrotechnische voorzieningen; bliksemafleiding, algemeen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.28</ID>
+									<Name>centrale elektrotechnische voorzieningen; bliksemafleiding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>61.3</ID>
+							<Name>centrale elektrotechnische voorzieningen; kanalisatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>61.30</ID>
+									<Name>centrale elektrotechnische voorzieningen; kanalisatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.31</ID>
+									<Name>centrale elektrotechnische voorzieningen; kanalisatie, t.b.v. installaties voor middenspanning</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.32</ID>
+									<Name>centrale elektrotechnische voorzieningen; kanalisatie, t.b.v. installaties voor lage spanning</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.33</ID>
+									<Name>centrale elektrotechnische voorzieningen; kanalisatie, t.b.v. installaties voor communicatie of beveiliging</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>61.4</ID>
+							<Name>centrale elektrotechnische voorzieningen; energiedistributie middenspanning >1kV</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>61.40</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie middenspanning >1kV, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.41</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie middenspanning >1kV, voedingsleiding middenspanningverdeler</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.42</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie middenspanning >1kV, middenspanningsverdeler</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.43</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie middenspanning >1kV, voedingleiding MS</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.44</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie middenspanning >1kV, transformator</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>61.5</ID>
+							<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV </Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>61.50</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV ,algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.51</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV, voedingsleiding laagspanningshoofdverdeler</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.52</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV, laagspanningshoofdverdeler</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.53</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV, voedingsleiding LS</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.54</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV, sub- en eindverdeler</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>61.55</ID>
+									<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV, medische verdeler (scheidingstransformator)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>61.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij centrale elektrotechnische voorzieningen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>61.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij centrale elektrotechnische voorzieningen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>62</ID>
+					<Name>Energievoorziening gebruikersaansluitingen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>62.0</ID>
+							<Name>energievoorziening gebruikersaansluitingen algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>62.1</ID>
+							<Name>energievoorziening gebruikersaansluitingen; generiek wissel</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>62.10</ID>
+									<Name>energievoorziening gebruikersaansluitingen; generiek wissel, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.11</ID>
+									<Name>energievoorziening gebruikersaansluitingen; generiek wissel, voedingsleiding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.12</ID>
+									<Name>energievoorziening gebruikersaansluitingen; generiek wissel, aansluitpunten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>62.2</ID>
+							<Name>energievoorziening gebruikersaansluitingen; specifiek wissel</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>62.20</ID>
+									<Name>energievoorziening gebruikersaansluitingen; specifiek wissel, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.21</ID>
+									<Name>energievoorziening gebruikersaansluitingen; specifiek wissel, voedingsleiding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.22</ID>
+									<Name>energievoorziening gebruikersaansluitingen; specifiek wissel, aansluitpunten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>62.3</ID>
+							<Name>energievoorziening gebruikersaansluitingen; generiek gelijk</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>62.30</ID>
+									<Name>energievoorziening gebruikersaansluitingen; generiek gelijk, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.31</ID>
+									<Name>energievoorziening gebruikersaansluitingen; generiek gelijk, voedingsleiding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.32</ID>
+									<Name>energievoorziening gebruikersaansluitingen; generiek gelijk, aansluitpunten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>62.4</ID>
+							<Name>energievoorziening gebruikersaansluitingen; specifiek gelijk</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>62.40</ID>
+									<Name>energievoorziening gebruikersaansluitingen; specifiek gelijk, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.41</ID>
+									<Name>energievoorziening gebruikersaansluitingen; specifiek gelijk, voedingsleiding</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>62.42</ID>
+									<Name>energievoorziening gebruikersaansluitingen; specifiek gelijk, aansluitpunten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>62.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij energievoorziening gebruikersaansluitingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>62.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij energievoorziening gebruikersaansluitingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>63</ID>
+					<Name>Verlichting</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>63.0</ID>
+							<Name>verlichting; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>63.1</ID>
+							<Name>verlichting; verlichting, bediening, regeling en signalering</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>63.10</ID>
+									<Name>verlichting; verlichting, bediening, regeling en signalering, algemeen (verzamelniveau) </Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>63.11</ID>
+									<Name>verlichting; verlichting, bediening, regeling en signalering, voedingsleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>63.2</ID>
+							<Name>verlichting; verlichting standaard armaturen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>63.20</ID>
+									<Name>verlichting; verlichting standaard armaturen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>63.21</ID>
+									<Name>verlichting; verlichting standaard armaturen, armaturen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>63.22</ID>
+									<Name>verlichting; verlichting standaard armaturen, noodarmaturen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>63.3</ID>
+							<Name>verlichting; verlichting overige armaturen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>63.30</ID>
+									<Name>verlichting; verlichting overige armaturen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>63.31</ID>
+									<Name>verlichting; verlichting overige armaturen, reclameverlichting</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>63.4</ID>
+							<Name>verlichting; vluchtwegsignalering</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>63.40</ID>
+									<Name>verlichting; vluchtwegsignalering, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>63.41</ID>
+									<Name>verlichting; vluchtwegsignalering, centrale signalering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>63.42</ID>
+									<Name>verlichting; vluchtwegsignalering, armaturen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>63.43</ID>
+									<Name>verlichting; vluchtwegsignalering, voedings/signaalleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>63.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij verlichting</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>63.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij verlichting, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>64</ID>
+					<Name>Communicatie</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>64.0</ID>
+							<Name>communicatie; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>64.1</ID>
+							<Name>communicatie; signalen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>64.10</ID>
+									<Name>communicatie; signalen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.11</ID>
+									<Name>communicatie; signalen, algemene signaleringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.13</ID>
+									<Name>communicatie; signalen, tijdsignalering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.14</ID>
+									<Name>communicatie, signalen, aanwezigheids- en beletsignalering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>64.2</ID>
+							<Name>communicatie; geluiden</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>64.20</ID>
+									<Name>communicatie; overdracht van geluid/spraak, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.21</ID>
+									<Name>communicatie; overdracht van geluid/spraak, telefoon</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.22</ID>
+									<Name>communicatie; overdracht van geluid/spraak, intercom</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.23</ID>
+									<Name>communicatie; overdracht van geluid/spraak, radio/mobilofoon</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.24</ID>
+									<Name>communicatie; overdracht van geluid/spraak, geluidsdistributie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.25</ID>
+									<Name>communicatie; overdracht van geluid/spraak, vertaalsystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.26</ID>
+									<Name>communicatie; overdracht van geluid/spraak, conferentiesystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>64.3</ID>
+							<Name>communicatie; beelden</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>64.30</ID>
+									<Name>communicatie; beelden, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.31</ID>
+									<Name>communicatie; beelden, gesloten televisiecircuits</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.32</ID>
+									<Name>communicatie; beelden, beeldreproductie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.33</ID>
+									<Name>communicatie; beelden, film/dia/overhead</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.34</ID>
+									<Name>communicatie; beelden, vergader- en presentatiesystemen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>64.5</ID>
+							<Name>communicatie; geïntegreerde systemen, data</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>64.50</ID>
+									<Name>communicatie; geïntegreerde systemen, data, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.51</ID>
+									<Name>communicatie; geïntegreerde systemen, data, centrale apparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.52</ID>
+									<Name>communicatie; geïntegreerde systemen, data, distributie bekabeling</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.53</ID>
+									<Name>communicatie; geïntegreerde systemen, data, generiek, aansluitpunten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.54</ID>
+									<Name>communicatie; geïntegreerde systemen, data, specifiek aansluitpunten</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.55</ID>
+									<Name>communicatie; geïntegreerde systemen, data, decentrale apparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>64.6</ID>
+							<Name>communicatie; antenne-inrichtingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>64.60</ID>
+									<Name>communicatie; antenne-inrichtingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.61</ID>
+									<Name>communicatie; antenne-inrichtingen, centrale apparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.62</ID>
+									<Name>communicatie; antenne-inrichtingen, voedings- en signaalleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>64.63</ID>
+									<Name>communicatie; antenne-inrichtingen, decentrale apparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>64.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij communicatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>64.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij communicatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>65</ID>
+					<Name>Beveiliging</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>65.0</ID>
+							<Name>beveiliging; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>65.1</ID>
+							<Name>beveiliging; brandmeldings- en ontruimingsinstallatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>65.10</ID>
+									<Name>beveiliging; brandmeldings- en ontruimingsinstallatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.11</ID>
+									<Name>beveiliging; brandmeldings- en ontruimingsinstallatie, detectie en alarmering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>65.2</ID>
+							<Name>beveiliging; braak-en toegangsbeheer</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>65.20</ID>
+									<Name>beveiliging; braak-en toegangsbeheer, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.21</ID>
+									<Name>beveiliging; braak-en toegangsbeheer, detectie en alarmering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.22</ID>
+									<Name>beveiliging; braak-en toegangsbeheer, toegangsbeheer</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.23</ID>
+									<Name>beveiliging; braak-en toegangsbeheer, CCTV</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>65.3</ID>
+							<Name>beveiliging; overlast-, detectie- en alarmeringsinstallatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>65.30</ID>
+									<Name>beveiliging; overlast-, detectie- en alarmeringsinstallatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.31</ID>
+									<Name>beveiliging; overlast-, detectie- en alarmeringsinstallatie, zon- en lichtwering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.32</ID>
+									<Name>beveiliging; overlast-, detectie- en alarmeringsinstallatie, elektromagnetische voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.34</ID>
+									<Name>beveiliging; overlast-, detectie- en alarmeringsinstallatie, gassenbeveiligingsapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>65.4</ID>
+							<Name>beveiliging; overlast-, sociale alarmeringsinstallatie</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>65.40</ID>
+									<Name>beveiliging; overlast-, sociale alarmeringsinstallatie, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.41</ID>
+									<Name>beveiliging; overlast-, sociale alarmeringsinstallatie, sociale alarmeringsapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.42</ID>
+									<Name>beveiliging; overlast-, sociale alarmeringsinstallatie, algemene personenoproepapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>65.43</ID>
+									<Name>beveiliging; overlast-, sociale alarmeringsinstallatie, algemene zusteroproepapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>65.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij beveiliging</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>65.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij beveiliging, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>66</ID>
+					<Name>Transport</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>66.0</ID>
+							<Name>transport; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>66.1</ID>
+							<Name>transport; liftinstallaties</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>66.10</ID>
+									<Name>transport; liftinstallaties, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.11</ID>
+									<Name>transport; liftinstallaties, tractieliften</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.12</ID>
+									<Name>transport; liftinstallaties, hydraulische liften</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.13</ID>
+									<Name>transport; liftinstallaties, trapliften</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.14</ID>
+									<Name>transport; liftinstallaties, heftableaus</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>66.2</ID>
+							<Name>transport; roltrappen, rolpaden en hellingbanen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>66.20</ID>
+									<Name>transport; roltrappen, rolpaden en hellingbanen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.21</ID>
+									<Name>transport; roltrappen, rolpaden en hellingbanen, roltrappen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.22</ID>
+									<Name>transport; roltrappen, rolpaden en hellingbanen, rolpaden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.23</ID>
+									<Name>transport; roltrappen, rolpaden en hellingbanen, hellingbanen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>66.3</ID>
+							<Name>transport; goederen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>66.30</ID>
+									<Name>transport; goederen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.31</ID>
+									<Name>transport; goederen, goederenliften</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.32</ID>
+									<Name>transport; goederen, goederenheffers</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.33</ID>
+									<Name>transport; goederen, baantransportmiddelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.34</ID>
+									<Name>transport; goederen, bandtransportmiddelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.35</ID>
+									<Name>transport; goederen, baktransportmiddelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.36</ID>
+									<Name>transport; goederen, hijswerktuigen en takels</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.37</ID>
+									<Name>transport; goederen, vrije-baan-transportvoertuigen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>66.4</ID>
+							<Name>transport; documenten</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>66.40</ID>
+									<Name>transport; documenten, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.41</ID>
+									<Name>transport; documenten, buizenpost</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.42</ID>
+									<Name>transport; documenten, railcontainer banen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>66.44</ID>
+									<Name>transport; documenten, bandtransportmiddelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>66.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij transport</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>66.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij transport, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>67</ID>
+					<Name>Gebouw management systeem</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>67.0</ID>
+							<Name>gebouw management systeem; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>67.5</ID>
+							<Name>gebouw management systeem; centrale apparatuur</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>67.50</ID>
+									<Name>gebouw management systeem; centrale apparatuur, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.51</ID>
+									<Name>gebouw management systeem; centrale apparatuur, systeemconfiguratie hardware</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.55</ID>
+									<Name>gebouw management systeem; centrale apparatuur, systeemconfiguratie software</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>67.6</ID>
+							<Name>gebouw management systeem; distributie, bekabeling</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>67.60</ID>
+									<Name>gebouw management systeem; distributie, bekabeling, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.61</ID>
+									<Name>gebouw management systeem; distributie, bekabeling, schakelkasten, voedingsleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.62</ID>
+									<Name>gebouw management systeem; distributie, bekabeling, regelkasten, signaalleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>67.7</ID>
+							<Name>gebouw management systeem; meting en sturing</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>67.70</ID>
+									<Name>gebouw management systeem; meting en sturing, veldapparatuur algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.71</ID>
+									<Name>gebouw management systeem; meting en sturing, veldapparatuur componenten managementsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.72</ID>
+									<Name>gebouw management systeem; meting en sturing, veldapparatuur componenten signaleringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>67.8</ID>
+							<Name>gebouw management systeem; bekabeling</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>67.80</ID>
+									<Name>gebouw management systeem; bekabeling, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.81</ID>
+									<Name>gebouw management systeem; bekabeling, voedingsleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>67.82</ID>
+									<Name>gebouw management systeem; bekabeling, signaalleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>67.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij gebouw management systeem</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>67.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij gebouw management systeem, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>68</ID>
+					<Name>Asset Management Systeem</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>68.0</ID>
+							<Name>asset management systeem; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>68.5</ID>
+							<Name>asset management systeem; centrale apparatuur</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>68.50</ID>
+									<Name>asset management systeem; centrale apparatuur, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>68.51</ID>
+									<Name>asset management systeem; centrale apparatuur, systeemconfiguratie hardware</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>68.55</ID>
+									<Name>asset management systeem; centrale apparatuur, systeemconfiguratie software</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>68.6</ID>
+							<Name>asset management systeem; distributie, bekabeling</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>68.60</ID>
+									<Name>asset management systeem; distributie, bekabeling, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>68.61</ID>
+									<Name>asset management systeem; distributie, bekabeling, schakelkasten, voedingsleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>68.62</ID>
+									<Name>asset management systeem; distributie, bekabeling, regelkasten, signaalleidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>68.7</ID>
+							<Name>asset management systeem; meting en sturing</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>68.70</ID>
+									<Name>asset management systeem; meting en sturing, veldapparatuur algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>68.71</ID>
+									<Name>asset management systeem; meting en sturing, veldapparatuur componenten managementsysteem</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>68.72</ID>
+									<Name>asset management systeem; meting en sturing, veldapparatuur componenten signaleringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>68.9</ID>
+							<Name>vaste gebouwgebonden voorzieningen behorend bij asset management systeem</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>68.90</ID>
+									<Name>vaste gebouwgebonden voorzieningen behorend bij asset management systeem, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+			</Children>
+		</Item>				
+		<Item>
+			<ID>7-</ID>
+			<Name>VASTE VOORZIENINGEN</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>71</ID>
+					<Name>Vaste verkeersvoorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>71.0</ID>
+							<Name>vaste verkeersvoorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>71.1</ID>
+							<Name>vaste verkeersvoorzieningen; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>71.10</ID>
+									<Name>vaste verkeersvoorzieningen; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>71.11</ID>
+									<Name>vaste verkeersvoorzieningen; standaard, meubileringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>71.12</ID>
+									<Name>vaste verkeersvoorzieningen; standaard, bewegwijzeringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>71.13</ID>
+									<Name>vaste verkeersvoorzieningen; standaard, kunstwerken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>71.14</ID>
+									<Name>vaste verkeersvoorzieningen; standaard, decoraties e.d.</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>71.2</ID>
+							<Name>vaste verkeersvoorzieningen; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>71.20</ID>
+									<Name>vaste verkeersvoorzieningen; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>71.21</ID>
+									<Name>vaste verkeersvoorzieningen; bijzonder, meubileringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>71.22</ID>
+									<Name>vaste verkeersvoorzieningen; bijzonder, bewegwijzeringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>71.23</ID>
+									<Name>vaste verkeersvoorzieningen; bijzonder, specifieke voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>72</ID>
+					<Name>Vaste gebruikersvoorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>72.0</ID>
+							<Name>vaste gebruikersvoorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>72.1</ID>
+							<Name>vaste gebruikersvoorzieningen; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>72.10</ID>
+									<Name>vaste gebruikersvoorzieningen; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>72.11</ID>
+									<Name>vaste gebruikersvoorzieningen; standaard, meubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>72.12</ID>
+									<Name>vaste gebruikersvoorzieningen; standaard, lichtweringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>72.13</ID>
+									<Name>vaste gebruikersvoorzieningen; standaard, gordijnvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>72.14</ID>
+									<Name>vaste gebruikersvoorzieningen; standaard, beschermende voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>72.2</ID>
+							<Name>vaste gebruikersvoorzieningen; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>72.20</ID>
+									<Name>vaste gebruikersvoorzieningen; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>72.21</ID>
+									<Name>vaste gebruikersvoorzieningen; bijzonder, meubilering voor specifieke functiedoeleinden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>72.22</ID>
+									<Name>vaste gebruikersvoorzieningen; bijzonder, instrumenten/apparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>73</ID>
+					<Name>Vaste keukenvoorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>73.0</ID>
+							<Name>vaste keukenvoorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>73.1</ID>
+							<Name>vaste keukenvoorzieningen; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>73.10</ID>
+									<Name>vaste keukenvoorzieningen; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>73.11</ID>
+									<Name>vaste keukenvoorzieningen; standaard, keukenmeubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>73.12</ID>
+									<Name>vaste keukenvoorzieningen; standaard, keukenapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>73.2</ID>
+							<Name>vaste keukenvoorzieningen; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>73.20</ID>
+									<Name>vaste keukenvoorzieningen; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>73.21</ID>
+									<Name>vaste keukenvoorzieningen; bijzonder, keukenmeubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>73.22</ID>
+									<Name>vaste keukenvoorzieningen; bijzonder, keukenapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>74</ID>
+					<Name>Vaste sanitaire voorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>74.0</ID>
+							<Name>vaste sanitaire voorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>
+						<Item>
+							<ID>74.1</ID>
+							<Name>vaste sanitaire voorzieningen; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>74.10</ID>
+									<Name>vaste sanitaire voorzieningen; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>74.11</ID>
+									<Name>vaste sanitaire voorzieningen; standaard, sanitaire toestellen; normaal</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>74.12</ID>
+									<Name>vaste sanitaire voorzieningen; standaard, sanitaire toestellen; aangepast</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>74.13</ID>
+									<Name>vaste sanitaire voorzieningen; standaard, accessoires</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>74.2</ID>
+							<Name>vaste sanitaire voorzieningen; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>74.20</ID>
+									<Name>vaste sanitaire voorzieningen; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>74.21</ID>
+									<Name>vaste sanitaire voorzieningen; bijzonder, sanitaire toestellen voor bijzondere toepassing</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>74.22</ID>
+									<Name>vaste sanitaire voorzieningen; bijzonder, ingebouwde sanitaire voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>75</ID>
+					<Name>Vaste onderhoudsvoorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>75.0</ID>
+							<Name>vaste onderhoudsvoorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>75.1</ID>
+							<Name>vaste onderhoudsvoorzieningen; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>75.10</ID>
+									<Name>vaste onderhoudsvoorzieningen; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>75.11</ID>
+									<Name>vaste onderhoudsvoorzieningen; standaard, gebouwonderhoudsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>75.12</ID>
+									<Name>vaste onderhoudsvoorzieningen; standaard, interieur onderhoudsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>75.13</ID>
+									<Name>vaste onderhoudsvoorzieningen; standaard, gevelonderhoudsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>75.2</ID>
+							<Name>vaste onderhoudsvoorzieningen; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>75.20</ID>
+									<Name>vaste onderhoudsvoorzieningen; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>75.21</ID>
+									<Name>vaste onderhoudsvoorzieningen; bijzonder, gebouwonderhoudsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>75.22</ID>
+									<Name>vaste onderhoudsvoorzieningen; bijzonder, interieuronderhoudsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>75.23</ID>
+									<Name>vaste onderhoudsvoorzieningen; bijzonder, gemechaniseerde gevelonderhoudsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>76</ID>
+					<Name>Vaste opslagvoorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>76.0</ID>
+							<Name>vaste opslagvoorzieningen; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>76.1</ID>
+							<Name>vaste opslagvoorzieningen; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>76.10</ID>
+									<Name>vaste opslagvoorzieningen; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>76.11</ID>
+									<Name>vaste opslagvoorzieningen; standaard, meubileringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>76.2</ID>
+							<Name>vaste opslagvoorzieningen; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>76.20</ID>
+									<Name>vaste opslagvoorzieningen; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>76.21</ID>
+									<Name>vaste opslagvoorzieningen; bijzonder, gemechaniseerde voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>76.22</ID>
+									<Name>vaste opslagvoorzieningen; bijzonder, specifieke voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>	
+			</Children>
+		</Item>				
+		<Item>
+			<ID>8-</ID>
+			<Name>LOSSE INVENTARIS</Name>
+			<Description/>
+			<Children>
+				<Item>
+					<ID>81</ID>
+					<Name>Losse verkeersinventaris</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>81.0</ID>
+							<Name>losse verkeersinventaris; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>81.1</ID>
+							<Name>losse verkeersinventaris; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>81.10</ID>
+									<Name>losse verkeersinventaris; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>81.11</ID>
+									<Name>losse verkeersinventaris; standaard, meubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>81.12</ID>
+									<Name>losse verkeersinventaris; standaard, bewegwijzering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>81.13</ID>
+									<Name>losse verkeersinventaris; standaard, kunstwerken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>81.14</ID>
+									<Name>losse verkeersinventaris; standaard, decoraties e.d.</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>81.2</ID>
+							<Name>losse verkeersinventaris; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>81.20</ID>
+									<Name>losse verkeersinventaris; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>81.21</ID>
+									<Name>losse verkeersinventaris; bijzonder, meubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>81.22</ID>
+									<Name>losse verkeersinventaris; bijzonder, bewegwijzering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>81.23</ID>
+									<Name>losse verkeersinventaris; bijzonder, specifieke voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>82</ID>
+					<Name>Losse gebruikersinventaris</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>82.0</ID>
+							<Name>losse gebruikersinventaris; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>82.1</ID>
+							<Name>losse gebruikersinventaris; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>82.10</ID>
+									<Name>losse gebruikersinventaris; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>82.11</ID>
+									<Name>losse gebruikersinventaris; standaard, meubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>82.12</ID>
+									<Name>losse gebruikersinventaris; standaard, lichtweringen/verduisteringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>82.13</ID>
+									<Name>losse gebruikersinventaris; standaard, stofferingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>82.2</ID>
+							<Name>losse gebruikersinventaris; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>82.20</ID>
+									<Name>losse gebruikersinventaris; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>82.21</ID>
+									<Name>losse gebruikersinventaris; bijzonder, meubilering voor specifieke functiedoeleinden</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>82.22</ID>
+									<Name>losse gebruikersinventaris; bijzonder, instrumenten/apparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>83</ID>
+					<Name>Losse keukeninventaris</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>83.0</ID>
+							<Name>losse keukeninventaris; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>83.1</ID>
+							<Name>losse keukeninventaris; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>83.10</ID>
+									<Name>losse keukeninventaris; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>83.11</ID>
+									<Name>losse keukeninventaris; standaard, keukenmeubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>83.12</ID>
+									<Name>losse keukeninventaris; standaard, keukenapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>83.13</ID>
+									<Name>losse keukeninventaris; standaard, kleine keukeninventaris</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>83.2</ID>
+							<Name>losse keukeninventaris; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>83.20</ID>
+									<Name>losse keukeninventaris; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>83.21</ID>
+									<Name>losse keukeninventaris; bijzonder, keukeninrichting</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>83.22</ID>
+									<Name>losse keukeninventaris; bijzonder, keukenapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>83.23</ID>
+									<Name>losse keukeninventaris; bijzonder, kleine keukeninventaris</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>83.24</ID>
+									<Name>losse keukeninventaris; bijzonder, transportmiddelen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>84</ID>
+					<Name>Losse sanitaire inventaris</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>84.0</ID>
+							<Name>losse sanitaire inventaris; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>84.1</ID>
+							<Name>losse sanitaire inventaris; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>84.10</ID>
+									<Name>losse sanitaire inventaris; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>84.11</ID>
+									<Name>losse sanitaire inventaris; standaard, afvalvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>84.12</ID>
+									<Name>losse sanitaire inventaris; standaard, voorzieningen t.b.v. hygiëne</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>84.13</ID>
+									<Name>losse sanitaire inventaris; standaard, accessoires</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>84.2</ID>
+							<Name>losse sanitaire inventaris; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>84.20</ID>
+									<Name>losse sanitaire inventaris; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>84.21</ID>
+									<Name>losse sanitaire inventaris; bijzonder, sanitaire toestellen voor bijzondere toepassing</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>85</ID>
+					<Name>Losse schoonmaakinventaris</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>85.0</ID>
+							<Name>losse schoonmaakinventaris; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>85.1</ID>
+							<Name>losse schoonmaakinventaris; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>85.10</ID>
+									<Name>losse schoonmaakinventaris; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>85.11</ID>
+									<Name>losse schoonmaakinventaris; standaard, schoonmaakapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>85.12</ID>
+									<Name>losse schoonmaakinventaris; standaard, vuilopslag</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>85.13</ID>
+									<Name>losse schoonmaakinventaris; standaard, vuiltransport</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>85.2</ID>
+							<Name>losse schoonmaakinventaris; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>85.20</ID>
+									<Name>losse schoonmaakinventaris; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>85.21</ID>
+									<Name>losse schoonmaakinventaris; bijzonder, schoonmaakapparatuur</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>85.22</ID>
+									<Name>losse schoonmaakinventaris; bijzonder, vuilopslag</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>85.23</ID>
+									<Name>losse schoonmaakinventaris; bijzonder, vuiltransport</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>						
+				<Item>
+					<ID>86</ID>
+					<Name>Losse opslaginventaris</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>86.0</ID>
+							<Name>losse opslaginventaris; algemeen</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>86.1</ID>
+							<Name>losse opslaginventaris; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>86.10</ID>
+									<Name>losse opslaginventaris; standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>86.11</ID>
+									<Name>losse opslaginventaris; standaard, meubileringen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>86.2</ID>
+							<Name>losse opslaginventaris; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>86.20</ID>
+									<Name>losse opslaginventaris; bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>86.21</ID>
+									<Name>losse opslaginventaris; bijzonder, gemechaniseerde voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>86.22</ID>
+									<Name>losse opslaginventaris; bijzonder, specifieke voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+					</Children>
+				</Item>
+			</Children>
+		</Item>				
+		<Item>
+			<ID>9-</ID>
+			<Name>TERREIN</Name>
+			<Description/>
+			<Children>
+						<Item>
+							<ID>90.0</ID>
+							<Name>terrein</Name>
+							<Description/>
+							<Children/>
+						</Item>							
+						<Item>
+							<ID>90.1</ID>
+							<Name>grondvoorzieningen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.10</ID>
+									<Name>terrein; grondvoorzieningen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.11</ID>
+									<Name>terrein; grondvoorzieningen, verwijderen obstakels</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.12</ID>
+									<Name>terrein; grondvoorzieningen, grondwaterverlagingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.13</ID>
+									<Name>terrein; grondvoorzieningen, drainagevoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>90.2</ID>
+							<Name>opstallen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.20</ID>
+									<Name>terrein; opstallen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.21</ID>
+									<Name>terrein; opstallen, gebouwtjes met speciale functie</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.22</ID>
+									<Name>terrein; opstallen, overkappingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>90.3</ID>
+							<Name>omheiningen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.30</ID>
+									<Name>terrein; omheiningen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.31</ID>
+									<Name>terrein; omheiningen, muren</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.32</ID>
+									<Name>terrein; omheiningen, hekwerken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.33</ID>
+									<Name>terrein; omheiningen, overige afscheidingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.34</ID>
+									<Name>terrein; omheiningen, toegangen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>90.4</ID>
+							<Name>terreinafwerkingen</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.40</ID>
+									<Name>terrein; terreinafwerkingen, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.41</ID>
+									<Name>terrein; terreinafwerkingen, verhardingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.42</ID>
+									<Name>terrein; terreinafwerkingen, beplantingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.43</ID>
+									<Name>terrein; terreinafwerkingen, waterpartijen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.44</ID>
+									<Name>terrein; terreinafwerkingen, keerwanden en balustrades</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.45</ID>
+									<Name>terrein; terreinafwerkingen, pergola s</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>90.5</ID>
+							<Name>terreinvoorzieningen; werktuigbouwkundig</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.50</ID>
+									<Name>terrein; werktuigbouwkundig, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.51</ID>
+									<Name>terrein; werktuigbouwkundig, verwarmingsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.52</ID>
+									<Name>terrein; werktuigbouwkundig, afvoervoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.53</ID>
+									<Name>terrein; werktuigbouwkundig, watervoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.54</ID>
+									<Name>terrein; werktuigbouwkundig, gasvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.55</ID>
+									<Name>terrein; werktuigbouwkundig, koudeopwekkingsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.56</ID>
+									<Name>terrein; werktuigbouwkundig, warmtedistributievoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.57</ID>
+									<Name>terrein; werktuigbouwkundig, luchtbehandelingsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.58</ID>
+									<Name>terrein; werktuigbouwkundig, regelingvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>90.6</ID>
+							<Name>terreinvoorzieningen; elektrotechnisch</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.60</ID>
+									<Name>terrein; elektrotechnisch, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.61</ID>
+									<Name>terrein; elektrotechnisch, elektrotechnische en aardingsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.62</ID>
+									<Name>terrein; elektrotechnisch, krachtvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.63</ID>
+									<Name>terrein; elektrotechnisch, lichtvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.64</ID>
+									<Name>terrein; elektrotechnisch, communicatievoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.65</ID>
+									<Name>terrein; elektrotechnisch, beveiligingsvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.66</ID>
+									<Name>terrein; elektrotechnisch, transportvoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.67</ID>
+									<Name>terrein; elektrotechnisch, beheervoorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>90.7</ID>
+							<Name>terreininrichtingen; standaard</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.70</ID>
+									<Name>terrein; terreininrichtingen, standaard, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.71</ID>
+									<Name>terrein; terreininrichtingen, standaard, terreinmeubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.72</ID>
+									<Name>terrein; terreininrichtingen, standaard, bewegwijzering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.73</ID>
+									<Name>terrein; terreininrichtingen, standaard, kunstwerken</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.74</ID>
+									<Name>terrein; terreininrichtingen, standaard, decoraties e.d.</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>								
+						<Item>
+							<ID>90.8</ID>
+							<Name>terreininrichtingen; bijzonder</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>90.80</ID>
+									<Name>terrein; terreininrichtingen, bijzonder, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.81</ID>
+									<Name>terrein; terreininrichtingen, bijzonder, terreinmeubilering</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.82</ID>
+									<Name>terrein; terreininrichtingen, bijzonder, specifieke voorzieningen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>90.83</ID>
+									<Name>terrein; terreininrichtingen, bijzonder, bijzondere verhardingen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+							</Children>
+						</Item>
+			</Children>
+		</Item>	
+	</Items>	
+	</System>
+	</Classification>
+</BuildingInformation>
