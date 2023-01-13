@@ -5,6 +5,7 @@ Voor de volgende paketten zijn hier de bestanden te vinden:
 - Revit
 - Archicad
 - SketchUP
+- BlenderBIM
 
 De naam van de IfcClassificationReference is: 'NL-SfB tabel 1 Classification'.
 De inhoud, code + omschrijving is direct uit de door Ketenstandaard gepubliceerde lijst gehaald.
