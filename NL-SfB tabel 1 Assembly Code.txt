@@ -877,7 +877,15 @@
 76.20	vaste opslagvoorzieningen; bijzonder, algemeen (verzamelniveau)	4	-2001000
 76.21	vaste opslagvoorzieningen; bijzonder, gemechaniseerde voorzieningen	4	-2001000
 76.22	vaste opslagvoorzieningen; bijzonder, specifieke voorzieningen	4	-2001000
-77	-gereserveerd-	2	-2003101
+77	Vaste functionele voorzieningen	2	-2003101
+77.0	vaste functionele voorzieningen; algemeen	3	-2003101
+77.1	vaste functionele voorzieningen; molens	3	-2003101
+77.10	vaste functionele voorzieningen; molens, algemeen (verzamelniveau)	4	-2003101
+77.11	vaste functionele voorzieningen; molens, het gevlucht	4	-2003101
+77.12	vaste functionele voorzieningen; molens, assen en spillen	4	-2003101
+77.13	vaste functionele voorzieningen; molens, molenwielen	4	-2003101
+77.14	vaste functionele voorzieningen; molens, vang	4	-2003101
+77.15	vaste functionele voorzieningen; molens, inrichting	4	-2003101
 78	-gereserveerd-	2	-2003101
 79	-gereserveerd-	2	-2003101
 8-	LOSSE INVENTARIS	1	-2000080
