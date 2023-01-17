@@ -1,22 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<BuildingInformation>
-	<Classification>
-		<System>
-			<Name>NL-SfB tabel 1</Name>
-			<EditionVersion>Classification</EditionVersion>
-			<EditionDate>
-				<Year>2019</Year>
-				<Month>12</Month>
-				<Day>01</Day>
-			</EditionDate>
-			<Description>Kies hieronder een NL/SfB codering. Deze code wordt als ifc-classificatie aan het geselecteerde element toegevoegd. The NL/SfB (4 digits) standard defines a classification and information coding system for the AEC industry in the Netherlands.</Description>
-			<Source>http://bimloket.nl/NL-SfB</Source>
-			<Items>						
-				<Item>
-					<ID>0-.0</ID>
-					<Name>indirecte projectvoorzieningen</Name>
-					<Description/>
-					<Children>
+						<Item>
+							<ID>0-.0</ID>
+							<Name>indirecte projectvoorzieningen</Name>
+							<Description/>
+							<Children>
 						<Item>
 							<ID>0-.1</ID>
 							<Name>werkterreininrichtingen</Name>
@@ -70,8 +56,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>														
 						<Item>
 							<ID>0-.2</ID>
 							<Name>materieelvoorzieningen</Name>
@@ -95,8 +79,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>0-.3</ID>
 							<Name>risicodekking</Name>
@@ -126,8 +108,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
 						<Item>
 							<ID>0-.4</ID>
 							<Name>projectorganisatie</Name>
@@ -157,8 +137,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>0-.5</ID>
 							<Name>bedrijfsorganisatie</Name>
@@ -182,10 +160,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>	
-					</Children>
-				</Item>
 		<Item>
 			<ID>1-</ID>
 			<Name>FUNDERINGEN</Name>
@@ -200,8 +174,7 @@
 							<ID>11.0</ID>
 							<Name>bodemvoorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>11.1</ID>
 							<Name>bodemvoorzieningen; grond</Name>
@@ -237,8 +210,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
 						<Item>
 							<ID>11.2</ID>
 							<Name>bodemvoorzieningen; water</Name>
@@ -262,10 +233,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>				
-					</Children>
-				</Item>
 				<Item>
 					<ID>13</ID>
 					<Name>Vloeren op grondslag</Name>
@@ -275,8 +242,7 @@
 							<ID>13.0</ID>
 							<Name>vloeren op grondslag; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>13.1</ID>
 							<Name>vloeren op grondslag; niet constructief</Name>
@@ -306,8 +272,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>13.2</ID>
 							<Name>vloeren op grondslag; constructief</Name>
@@ -337,10 +301,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>16</ID>
 					<Name>Funderingsconstructies</Name>
@@ -350,8 +310,7 @@
 							<ID>16.0</ID>
 							<Name>funderingsconstructies; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>16.1</ID>
 							<Name>funderingsconstructies; voeten en balken</Name>
@@ -393,8 +352,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>16.2</ID>
 							<Name>funderingsconstructies; keerwanden</Name>
@@ -430,10 +387,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>17</ID>
 					<Name>Paalfunderingen</Name>
@@ -443,8 +396,7 @@
 							<ID>17.0</ID>
 							<Name>paalfunderingen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>17.1</ID>
 							<Name>paalfunderingen; niet geheid</Name>
@@ -486,8 +438,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>17.2</ID>
 							<Name>paalfunderingen; geheid</Name>
@@ -523,12 +473,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
-			</Children>
-		</Item>		
 		<Item>
 			<ID>2-</ID>
 			<Name>RUWBOUW</Name>
@@ -543,8 +487,7 @@
 							<ID>21.0</ID>
 							<Name>buitenwanden; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>21.1</ID>
 							<Name>buitenwanden; niet constructief</Name>
@@ -592,8 +535,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>21.2</ID>
 							<Name>buitenwanden; constructief</Name>
@@ -629,10 +570,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>	
-					</Children>
-				</Item>						
 				<Item>
 					<ID>22</ID>
 					<Name>Binnenwanden</Name>
@@ -642,8 +579,7 @@
 							<ID>22.0</ID>
 							<Name>binnenwanden; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>22.1</ID>
 							<Name>binnenwanden; niet constructief</Name>
@@ -679,8 +615,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>22.2</ID>
 							<Name>binnenwanden; constructief</Name>
@@ -710,10 +644,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>23</ID>
 					<Name>Vloeren</Name>
@@ -723,8 +653,7 @@
 							<ID>23.0</ID>
 							<Name>vloeren; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>23.1</ID>
 							<Name>vloeren; niet constructief</Name>
@@ -766,8 +695,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>23.2</ID>
 							<Name>vloeren; constructief</Name>
@@ -809,10 +736,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>24</ID>
 					<Name>Trappen en hellingen</Name>
@@ -822,8 +745,7 @@
 							<ID>24.0</ID>
 							<Name>trappen en hellingen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>
+							<Children>
 						<Item>
 							<ID>24.1</ID>
 							<Name>trappen en hellingen; trappen</Name>
@@ -859,8 +781,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>24.2</ID>
 							<Name>trappen en hellingen; hellingen</Name>
@@ -890,8 +810,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>24.3</ID>
 							<Name>trappen en hellingen; ladders en klimijzers</Name>
@@ -921,10 +839,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>27</ID>
 					<Name>Daken</Name>
@@ -934,8 +848,7 @@
 							<ID>27.0</ID>
 							<Name>daken; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>27.1</ID>
 							<Name>daken; niet constructief</Name>
@@ -977,8 +890,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>27.2</ID>
 							<Name>daken; constructief</Name>
@@ -1020,10 +931,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>28</ID>
 					<Name>Hoofddraagconstructies</Name>
@@ -1033,8 +940,7 @@
 							<ID>28.0</ID>
 							<Name>hoofddraagconstructies; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>
+							<Children>
 						<Item>
 							<ID>28.1</ID>
 							<Name>hoofddraagconstructies; kolommen en liggers</Name>
@@ -1058,8 +964,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>28.2</ID>
 							<Name>hoofddraagconstructies; wanden en vloeren</Name>
@@ -1077,8 +981,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>28.3</ID>
 							<Name>hoofddraagconstructies; ruimte-eenheden</Name>
@@ -1096,12 +998,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>
-			</Children>
-		</Item>				
 		<Item>
 			<ID>3-</ID>
 			<Name>AFBOUW</Name>
@@ -1116,8 +1012,7 @@
 							<ID>31.0</ID>
 							<Name>buitenwandopeningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>31.1</ID>
 							<Name>buitenwandopeningen; niet gevuld</Name>
@@ -1141,8 +1036,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>31.2</ID>
 							<Name>buitenwandopeningen; gevuld met ramen</Name>
@@ -1184,8 +1077,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>31.3</ID>
 							<Name>buitenwandopeningen; gevuld met deuren</Name>
@@ -1221,8 +1112,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>31.4</ID>
 							<Name>buitenwandopeningen; gevuld met puien</Name>
@@ -1240,10 +1129,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>32</ID>
 					<Name>Binnenwandopeningen</Name>
@@ -1253,8 +1138,7 @@
 							<ID>32.0</ID>
 							<Name>binnenwandopeningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>32.1</ID>
 							<Name>binnenwandopeningen; niet gevuld</Name>
@@ -1278,8 +1162,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>32.2</ID>
 							<Name>binnenwandopeningen; gevuld met ramen</Name>
@@ -1321,8 +1203,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>32.3</ID>
 							<Name>binnenwandopeningen; gevuld met deuren</Name>
@@ -1358,8 +1238,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>32.4</ID>
 							<Name>binnenwandopeningen; gevuld met puien</Name>
@@ -1377,10 +1255,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
-					</Children>
-				</Item>						
 				<Item>
 					<ID>33</ID>
 					<Name>Vloeropeningen</Name>
@@ -1390,8 +1264,7 @@
 							<ID>33.0</ID>
 							<Name>vloeropeningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>33.1</ID>
 							<Name>vloeropeningen; niet gevuld</Name>
@@ -1415,8 +1288,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>33.2</ID>
 							<Name>vloeropeningen; gevuld</Name>
@@ -1440,10 +1311,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
-					</Children>
-				</Item>
 				<Item>
 					<ID>34</ID>
 					<Name>Balustrades en leuningen</Name>
@@ -1453,8 +1320,7 @@
 							<ID>34.0</ID>
 							<Name>balustrades en leuningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>34.1</ID>
 							<Name>balustrades en leuningen; balustrades</Name>
@@ -1478,8 +1344,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>34.2</ID>
 							<Name>balustrades en leuningen; leuningen</Name>
@@ -1503,10 +1367,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
-					</Children>
-				</Item>				
 				<Item>
 					<ID>37</ID>
 					<Name>Dakopeningen</Name>
@@ -1516,8 +1376,7 @@
 							<ID>37.0</ID>
 							<Name>dakopeningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>37.1</ID>
 							<Name>dakopeningen; niet gevuld</Name>
@@ -1541,8 +1400,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>37.2</ID>
 							<Name>dakopeningen; gevuld</Name>
@@ -1584,10 +1441,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
-					</Children>
-				</Item>
 				<Item>
 					<ID>38</ID>
 					<Name>Inbouwpakketten</Name>
@@ -1597,8 +1450,7 @@
 							<ID>38.0</ID>
 							<Name>inbouwpakketten; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>38.1</ID>
 							<Name>inbouwpakketten</Name>
@@ -1622,12 +1474,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
-			</Children>
-		</Item>				
 		<Item>
 			<ID>4-</ID>
 			<Name>AFWERKINGEN</Name>
@@ -1642,8 +1488,7 @@
 							<ID>41.0</ID>
 							<Name>buitenwandafwerkingen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>41.1</ID>
 							<Name>buitenwandafwerkingen</Name>
@@ -1673,10 +1518,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
-					</Children>
-				</Item>						
 				<Item>
 					<ID>42</ID>
 					<Name>Binnenwandafwerkingen</Name>
@@ -1686,8 +1527,7 @@
 							<ID>42.0</ID>
 							<Name>binnenwandafwerkingen; algemeen</Name>
 							<Description/>
-							<Children/>							
-						</Item>							
+							<Children>
 						<Item>
 							<ID>42.1</ID>
 							<Name>binnenwandafwerkingen</Name>
@@ -1711,10 +1551,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>43</ID>
 					<Name>Vloerafwerkingen</Name>
@@ -1724,8 +1560,7 @@
 							<ID>43.0</ID>
 							<Name>vloerafwerkingen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>43.1</ID>
 							<Name>vloerafwerkingen; verhoogd</Name>
@@ -1749,8 +1584,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>43.2</ID>
 							<Name>vloerafwerkingen; niet verhoogd</Name>
@@ -1780,10 +1613,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>44</ID>
 					<Name>Trap- en hellingafwerkingen</Name>
@@ -1793,8 +1622,7 @@
 							<ID>44.0</ID>
 							<Name>trap- en hellingafwerkingen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>44.1</ID>
 							<Name>trap- en hellingafwerkingen; trapafwerkingen</Name>
@@ -1824,8 +1652,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>44.2</ID>
 							<Name>trap- en hellingafwerkingen; hellingafwerkingen</Name>
@@ -1855,10 +1681,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>45</ID>
 					<Name>Plafondafwerkingen</Name>
@@ -1868,8 +1690,7 @@
 							<ID>45.0</ID>
 							<Name>plafondafwerkingen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>45.1</ID>
 							<Name>plafondafwerkingen; verlaagd</Name>
@@ -1905,8 +1726,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>45.2</ID>
 							<Name>plafondafwerkingen; niet verlaagd</Name>
@@ -1948,10 +1767,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>47</ID>
 					<Name>Dakafwerkingen</Name>
@@ -1961,8 +1776,7 @@
 							<ID>47.0</ID>
 							<Name>dakafwerkingen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>47.1</ID>
 							<Name>dakafwerkingen; afwerkingen</Name>
@@ -2010,8 +1824,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>47.2</ID>
 							<Name>dakafwerkingen; bekledingen</Name>
@@ -2059,10 +1871,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>48</ID>
 					<Name>Afwerkingpakketten</Name>
@@ -2072,8 +1880,7 @@
 							<ID>48.0</ID>
 							<Name>afwerkingspakketten; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>48.1</ID>
 							<Name>afwerkingspakketten</Name>
@@ -2097,12 +1904,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>
-			</Children>
-		</Item>				
 		<Item>
 			<ID>5-</ID>
 			<Name>INSTALLATIES WERKTUIGBOUWKUNDIG</Name>
@@ -2117,8 +1918,7 @@
 							<ID>52.0</ID>
 							<Name>afvoeren; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>52.1</ID>
 							<Name>afvoeren; regenwater</Name>
@@ -2154,8 +1954,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>52.2</ID>
 							<Name>afvoeren; fecaliën</Name>
@@ -2197,8 +1995,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>52.3</ID>
 							<Name>afvoeren; afvalwater</Name>
@@ -2228,8 +2024,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>52.4</ID>
 							<Name>afvoeren; gecombineerd</Name>
@@ -2253,8 +2047,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>52.5</ID>
 							<Name>afvoeren; vuilwaterafvoer speciaal</Name>
@@ -2290,8 +2082,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>52.6</ID>
 							<Name>afvoeren; vaste stoffen</Name>
@@ -2333,8 +2123,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>52.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij afvoeren</Name>
@@ -2346,10 +2134,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>53</ID>
 					<Name>Water</Name>
@@ -2359,8 +2143,7 @@
 							<ID>53.0</ID>
 							<Name>water; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>53.1</ID>
 							<Name>water; drinkwater</Name>
@@ -2402,8 +2185,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>53.2</ID>
 							<Name>water; verwarmd tapwater</Name>
@@ -2427,8 +2208,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>53.3</ID>
 							<Name>water; bedrijfswater</Name>
@@ -2482,8 +2261,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>53.4</ID>
 							<Name>water; gebruiksstoom en condens</Name>
@@ -2507,8 +2284,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>53.5</ID>
 							<Name>water; waterbehandeling</Name>
@@ -2544,8 +2319,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>53.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij water</Name>
@@ -2557,10 +2330,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>54</ID>
 					<Name>Gassen</Name>
@@ -2570,8 +2339,7 @@
 							<ID>54.0</ID>
 							<Name>gassen; algemeen</Name>
 							<Description/>
-							<Children/>							
-						</Item>							
+							<Children>
 						<Item>
 							<ID>54.1</ID>
 							<Name>gassen, brandstof</Name>
@@ -2619,8 +2387,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>54.2</ID>
 							<Name>gassen; perslucht</Name>
@@ -2650,8 +2416,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>54.3</ID>
 							<Name>gassen; medisch</Name>
@@ -2693,8 +2457,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>54.4</ID>
 							<Name>gassen; technisch</Name>
@@ -2760,8 +2522,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>54.5</ID>
 							<Name>gassen, bijzonder</Name>
@@ -2785,8 +2545,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>54.6</ID>
 							<Name>gassen; vacuüm</Name>
@@ -2810,8 +2568,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>54.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij gassen</Name>
@@ -2823,10 +2579,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>55</ID>
 					<Name>Koeling</Name>
@@ -2836,8 +2588,7 @@
 							<ID>55.0</ID>
 							<Name>koeling; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>55.1</ID>
 							<Name>koeling; opwekking lokaal</Name>
@@ -2861,8 +2612,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>55.2</ID>
 							<Name>koeling; opwekking centraal</Name>
@@ -2916,8 +2665,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>55.3</ID>
 							<Name>koeling; distributie hoofdverdeling (t/m verdeler/verzamelaar)</Name>
@@ -2935,8 +2682,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
 						<Item>
 							<ID>55.4</ID>
 							<Name>koeling; distributie (vanaf verdeler/verzamelaar)</Name>
@@ -2954,8 +2699,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>55.5</ID>
 							<Name>koeling, opslag</Name>
@@ -2967,8 +2710,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>55.8</ID>
 							<Name>koeling; afgifte</Name>
@@ -2998,8 +2739,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>55.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij koeling</Name>
@@ -3011,10 +2750,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>56</ID>
 					<Name>Verwarming</Name>
@@ -3024,8 +2759,7 @@
 							<ID>56.0</ID>
 							<Name>verwarming; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>56.1</ID>
 							<Name>verwarming; opwekking lokaal</Name>
@@ -3049,8 +2783,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>56.2</ID>
 							<Name>verwarming; opwekking centraal</Name>
@@ -3104,8 +2836,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>56.3</ID>
 							<Name>verwarming; distributie hoofdverdeling (t/m verdeler/verzamelaar)</Name>
@@ -3123,8 +2853,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>56.4</ID>
 							<Name>verwarming; distributie (vanaf verdeler/verzamelaar)</Name>
@@ -3142,8 +2870,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>56.5</ID>
 							<Name>verwarming; opslag</Name>
@@ -3155,8 +2881,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>56.8</ID>
 							<Name>verwarming; afgifte</Name>
@@ -3192,8 +2916,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>56.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij verwarming</Name>
@@ -3205,10 +2927,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>57</ID>
 					<Name>Luchtbehandeling</Name>
@@ -3218,8 +2936,7 @@
 							<ID>57.0</ID>
 							<Name>luchtbehandeling; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>57.1</ID>
 							<Name>luchtbehandeling; natuurlijk</Name>
@@ -3243,8 +2960,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>57.2</ID>
 							<Name>luchtbehandeling; mechanisch lokaal</Name>
@@ -3268,8 +2983,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>57.3</ID>
 							<Name>luchtbehandeling; mechanisch centraal</Name>
@@ -3293,8 +3006,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>57.4</ID>
 							<Name>luchtbehandeling; distributie</Name>
@@ -3318,8 +3029,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>57.8</ID>
 							<Name>luchtbehandeling; afgifte</Name>
@@ -3343,8 +3052,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>57.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij luchtbehandeling</Name>
@@ -3356,10 +3063,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>58</ID>
 					<Name>Meet- en regelinstallaties</Name>
@@ -3369,8 +3072,7 @@
 							<ID>58.0</ID>
 							<Name>meet- en regelinstallaties; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>
+							<Children>
 						<Item>
 							<ID>58.1</ID>
 							<Name>meet- en regelinstallaties; verdeling lokaal inclusief regelapparatuur</Name>
@@ -3388,8 +3090,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>58.2</ID>
 							<Name>meet- en regelinstallaties; verdeling centraal Gebouw Beheer Systeem (GBS)</Name>
@@ -3413,8 +3113,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>58.6</ID>
 							<Name>meet- en regelinstallaties; distributie centraal</Name>
@@ -3450,8 +3148,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>58.8</ID>
 							<Name>meet- en regelinstallaties; meting en sturing</Name>
@@ -3475,8 +3171,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>58.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij regeling werktuigkundige installaties</Name>
@@ -3488,10 +3182,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>59</ID>
 					<Name>Werktuigkundige brandveiligheid</Name>
@@ -3501,8 +3191,7 @@
 							<ID>59.0</ID>
 							<Name>brandveiligheid; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>59.1</ID>
 							<Name>brandveiligheid; gasblusinstallatie</Name>
@@ -3532,8 +3221,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>59.2</ID>
 							<Name>brandveiligheid; waterblusinstallatie</Name>
@@ -3569,8 +3256,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>59.3</ID>
 							<Name>brandveiligheid; brandventilatieinstallatie</Name>
@@ -3594,8 +3279,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>59.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij brandveiligheid</Name>
@@ -3607,12 +3290,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
-					</Children>
-				</Item>
-			</Children>
-		</Item>				
 		<Item>
 			<ID>6-</ID>
 			<Name>INSTALLATIES ELEKTROTECHNISCH</Name>
@@ -3627,8 +3304,7 @@
 							<ID>61.0</ID>
 							<Name>centrale elektrotechnische voorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>61.1</ID>
 							<Name>centrale elektrotechnische voorzieningen; energie-opwekking</Name>
@@ -3682,8 +3358,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>61.2</ID>
 							<Name>centrale elektrotechnische voorzieningen; aarding en bliksembeveiliging</Name>
@@ -3737,8 +3411,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>61.3</ID>
 							<Name>centrale elektrotechnische voorzieningen; kanalisatie</Name>
@@ -3768,8 +3440,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>61.4</ID>
 							<Name>centrale elektrotechnische voorzieningen; energiedistributie middenspanning >1kV</Name>
@@ -3805,8 +3475,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>61.5</ID>
 							<Name>centrale elektrotechnische voorzieningen; energiedistributie laagspanning ≤1kV </Name>
@@ -3848,8 +3516,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>61.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij centrale elektrotechnische voorzieningen</Name>
@@ -3861,10 +3527,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>62</ID>
 					<Name>Energievoorziening gebruikersaansluitingen</Name>
@@ -3874,8 +3536,7 @@
 							<ID>62.0</ID>
 							<Name>energievoorziening gebruikersaansluitingen algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>62.1</ID>
 							<Name>energievoorziening gebruikersaansluitingen; generiek wissel</Name>
@@ -3899,8 +3560,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>62.2</ID>
 							<Name>energievoorziening gebruikersaansluitingen; specifiek wissel</Name>
@@ -3924,8 +3583,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>62.3</ID>
 							<Name>energievoorziening gebruikersaansluitingen; generiek gelijk</Name>
@@ -3949,8 +3606,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>62.4</ID>
 							<Name>energievoorziening gebruikersaansluitingen; specifiek gelijk</Name>
@@ -3974,8 +3629,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>62.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij energievoorziening gebruikersaansluitingen</Name>
@@ -3987,10 +3640,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>63</ID>
 					<Name>Verlichting</Name>
@@ -4000,8 +3649,7 @@
 							<ID>63.0</ID>
 							<Name>verlichting; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>63.1</ID>
 							<Name>verlichting; verlichting, bediening, regeling en signalering</Name>
@@ -4019,8 +3667,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>63.2</ID>
 							<Name>verlichting; verlichting standaard armaturen</Name>
@@ -4044,8 +3690,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>63.3</ID>
 							<Name>verlichting; verlichting overige armaturen</Name>
@@ -4063,8 +3707,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>63.4</ID>
 							<Name>verlichting; vluchtwegsignalering</Name>
@@ -4094,8 +3736,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>63.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij verlichting</Name>
@@ -4107,10 +3747,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>64</ID>
 					<Name>Communicatie</Name>
@@ -4120,8 +3756,7 @@
 							<ID>64.0</ID>
 							<Name>communicatie; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>64.1</ID>
 							<Name>communicatie; signalen</Name>
@@ -4151,8 +3786,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>64.2</ID>
 							<Name>communicatie; geluiden</Name>
@@ -4200,8 +3833,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>64.3</ID>
 							<Name>communicatie; beelden</Name>
@@ -4237,8 +3868,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>64.5</ID>
 							<Name>communicatie; geïntegreerde systemen, data</Name>
@@ -4280,8 +3909,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>64.6</ID>
 							<Name>communicatie; antenne-inrichtingen</Name>
@@ -4311,8 +3938,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>64.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij communicatie</Name>
@@ -4324,10 +3949,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>65</ID>
 					<Name>Beveiliging</Name>
@@ -4337,8 +3958,7 @@
 							<ID>65.0</ID>
 							<Name>beveiliging; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>65.1</ID>
 							<Name>beveiliging; brandmeldings- en ontruimingsinstallatie</Name>
@@ -4356,8 +3976,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>65.2</ID>
 							<Name>beveiliging; braak-en toegangsbeheer</Name>
@@ -4387,8 +4005,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>65.3</ID>
 							<Name>beveiliging; overlast-, detectie- en alarmeringsinstallatie</Name>
@@ -4418,8 +4034,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>65.4</ID>
 							<Name>beveiliging; overlast-, sociale alarmeringsinstallatie</Name>
@@ -4449,8 +4063,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>65.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij beveiliging</Name>
@@ -4462,10 +4074,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>66</ID>
 					<Name>Transport</Name>
@@ -4475,8 +4083,7 @@
 							<ID>66.0</ID>
 							<Name>transport; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>66.1</ID>
 							<Name>transport; liftinstallaties</Name>
@@ -4512,8 +4119,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>66.2</ID>
 							<Name>transport; roltrappen, rolpaden en hellingbanen</Name>
@@ -4543,8 +4148,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>66.3</ID>
 							<Name>transport; goederen</Name>
@@ -4598,8 +4201,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>66.4</ID>
 							<Name>transport; documenten</Name>
@@ -4629,8 +4230,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>66.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij transport</Name>
@@ -4642,10 +4241,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>67</ID>
 					<Name>Gebouw management systeem</Name>
@@ -4655,8 +4250,7 @@
 							<ID>67.0</ID>
 							<Name>gebouw management systeem; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>
+							<Children>
 						<Item>
 							<ID>67.5</ID>
 							<Name>gebouw management systeem; centrale apparatuur</Name>
@@ -4680,8 +4274,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>67.6</ID>
 							<Name>gebouw management systeem; distributie, bekabeling</Name>
@@ -4705,8 +4297,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>67.7</ID>
 							<Name>gebouw management systeem; meting en sturing</Name>
@@ -4730,8 +4320,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>67.8</ID>
 							<Name>gebouw management systeem; bekabeling</Name>
@@ -4755,8 +4343,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>67.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij gebouw management systeem</Name>
@@ -4768,10 +4354,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>68</ID>
 					<Name>Asset Management Systeem</Name>
@@ -4781,8 +4363,7 @@
 							<ID>68.0</ID>
 							<Name>asset management systeem; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>68.5</ID>
 							<Name>asset management systeem; centrale apparatuur</Name>
@@ -4806,8 +4387,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>68.6</ID>
 							<Name>asset management systeem; distributie, bekabeling</Name>
@@ -4831,8 +4410,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>68.7</ID>
 							<Name>asset management systeem; meting en sturing</Name>
@@ -4856,8 +4433,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>68.9</ID>
 							<Name>vaste gebouwgebonden voorzieningen behorend bij asset management systeem</Name>
@@ -4869,12 +4444,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>
-			</Children>
-		</Item>				
 		<Item>
 			<ID>7-</ID>
 			<Name>VASTE VOORZIENINGEN</Name>
@@ -4889,8 +4458,7 @@
 							<ID>71.0</ID>
 							<Name>vaste verkeersvoorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>71.1</ID>
 							<Name>vaste verkeersvoorzieningen; standaard</Name>
@@ -4926,8 +4494,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>71.2</ID>
 							<Name>vaste verkeersvoorzieningen; bijzonder</Name>
@@ -4957,10 +4523,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>72</ID>
 					<Name>Vaste gebruikersvoorzieningen</Name>
@@ -4970,8 +4532,7 @@
 							<ID>72.0</ID>
 							<Name>vaste gebruikersvoorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>72.1</ID>
 							<Name>vaste gebruikersvoorzieningen; standaard</Name>
@@ -5007,8 +4568,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>72.2</ID>
 							<Name>vaste gebruikersvoorzieningen; bijzonder</Name>
@@ -5032,10 +4591,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>73</ID>
 					<Name>Vaste keukenvoorzieningen</Name>
@@ -5045,8 +4600,7 @@
 							<ID>73.0</ID>
 							<Name>vaste keukenvoorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>73.1</ID>
 							<Name>vaste keukenvoorzieningen; standaard</Name>
@@ -5070,8 +4624,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>73.2</ID>
 							<Name>vaste keukenvoorzieningen; bijzonder</Name>
@@ -5095,10 +4647,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>74</ID>
 					<Name>Vaste sanitaire voorzieningen</Name>
@@ -5108,8 +4656,7 @@
 							<ID>74.0</ID>
 							<Name>vaste sanitaire voorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>
+							<Children>
 						<Item>
 							<ID>74.1</ID>
 							<Name>vaste sanitaire voorzieningen; standaard</Name>
@@ -5139,8 +4686,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>74.2</ID>
 							<Name>vaste sanitaire voorzieningen; bijzonder</Name>
@@ -5164,10 +4709,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>75</ID>
 					<Name>Vaste onderhoudsvoorzieningen</Name>
@@ -5177,8 +4718,7 @@
 							<ID>75.0</ID>
 							<Name>vaste onderhoudsvoorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>75.1</ID>
 							<Name>vaste onderhoudsvoorzieningen; standaard</Name>
@@ -5208,8 +4748,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>75.2</ID>
 							<Name>vaste onderhoudsvoorzieningen; bijzonder</Name>
@@ -5239,10 +4777,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>76</ID>
 					<Name>Vaste opslagvoorzieningen</Name>
@@ -5252,8 +4786,7 @@
 							<ID>76.0</ID>
 							<Name>vaste opslagvoorzieningen; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>76.1</ID>
 							<Name>vaste opslagvoorzieningen; standaard</Name>
@@ -5271,8 +4804,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>76.2</ID>
 							<Name>vaste opslagvoorzieningen; bijzonder</Name>
@@ -5296,12 +4827,57 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>	
-			</Children>
-		</Item>				
+				<Item>
+					<ID>77</ID>
+					<Name>Vaste functionele voorzieningen</Name>
+					<Description/>
+					<Children>
+						<Item>
+							<ID>77.0</ID>
+							<Name>vaste functionele voorzieningen; algemeen</Name>
+							<Description/>
+							<Children>
+						<Item>
+							<ID>77.1</ID>
+							<Name>vaste functionele voorzieningen; molens</Name>
+							<Description/>
+							<Children>
+								<Item>
+									<ID>77.10</ID>
+									<Name>vaste functionele voorzieningen; molens, algemeen (verzamelniveau)</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>77.11</ID>
+									<Name>vaste functionele voorzieningen; molens, het gevlucht</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>77.12</ID>
+									<Name>vaste functionele voorzieningen; molens, assen en spillen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>77.13</ID>
+									<Name>vaste functionele voorzieningen; molens, molenwielen</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>77.14</ID>
+									<Name>vaste functionele voorzieningen; molens, vang</Name>
+									<Description/>
+									<Children/>
+								</Item>
+								<Item>
+									<ID>77.15</ID>
+									<Name>vaste functionele voorzieningen; molens, inrichting</Name>
+									<Description/>
+									<Children/>
+								</Item>
 		<Item>
 			<ID>8-</ID>
 			<Name>LOSSE INVENTARIS</Name>
@@ -5316,8 +4892,7 @@
 							<ID>81.0</ID>
 							<Name>losse verkeersinventaris; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>81.1</ID>
 							<Name>losse verkeersinventaris; standaard</Name>
@@ -5353,8 +4928,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>81.2</ID>
 							<Name>losse verkeersinventaris; bijzonder</Name>
@@ -5384,10 +4957,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>82</ID>
 					<Name>Losse gebruikersinventaris</Name>
@@ -5397,8 +4966,7 @@
 							<ID>82.0</ID>
 							<Name>losse gebruikersinventaris; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>82.1</ID>
 							<Name>losse gebruikersinventaris; standaard</Name>
@@ -5428,8 +4996,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>82.2</ID>
 							<Name>losse gebruikersinventaris; bijzonder</Name>
@@ -5453,10 +5019,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>83</ID>
 					<Name>Losse keukeninventaris</Name>
@@ -5466,8 +5028,7 @@
 							<ID>83.0</ID>
 							<Name>losse keukeninventaris; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>83.1</ID>
 							<Name>losse keukeninventaris; standaard</Name>
@@ -5497,8 +5058,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>83.2</ID>
 							<Name>losse keukeninventaris; bijzonder</Name>
@@ -5534,10 +5093,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>84</ID>
 					<Name>Losse sanitaire inventaris</Name>
@@ -5547,8 +5102,7 @@
 							<ID>84.0</ID>
 							<Name>losse sanitaire inventaris; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>84.1</ID>
 							<Name>losse sanitaire inventaris; standaard</Name>
@@ -5578,8 +5132,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>84.2</ID>
 							<Name>losse sanitaire inventaris; bijzonder</Name>
@@ -5597,10 +5149,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>85</ID>
 					<Name>Losse schoonmaakinventaris</Name>
@@ -5610,8 +5158,7 @@
 							<ID>85.0</ID>
 							<Name>losse schoonmaakinventaris; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>85.1</ID>
 							<Name>losse schoonmaakinventaris; standaard</Name>
@@ -5641,8 +5188,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>85.2</ID>
 							<Name>losse schoonmaakinventaris; bijzonder</Name>
@@ -5672,10 +5217,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>						
 				<Item>
 					<ID>86</ID>
 					<Name>Losse opslaginventaris</Name>
@@ -5685,8 +5226,7 @@
 							<ID>86.0</ID>
 							<Name>losse opslaginventaris; algemeen</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>86.1</ID>
 							<Name>losse opslaginventaris; standaard</Name>
@@ -5704,8 +5244,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>86.2</ID>
 							<Name>losse opslaginventaris; bijzonder</Name>
@@ -5729,12 +5267,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-					</Children>
-				</Item>
-			</Children>
-		</Item>				
 		<Item>
 			<ID>9-</ID>
 			<Name>TERREIN</Name>
@@ -5744,8 +5276,7 @@
 							<ID>90.0</ID>
 							<Name>terrein</Name>
 							<Description/>
-							<Children/>
-						</Item>							
+							<Children>
 						<Item>
 							<ID>90.1</ID>
 							<Name>grondvoorzieningen</Name>
@@ -5775,8 +5306,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>90.2</ID>
 							<Name>opstallen</Name>
@@ -5800,8 +5329,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>90.3</ID>
 							<Name>omheiningen</Name>
@@ -5837,8 +5364,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>90.4</ID>
 							<Name>terreinafwerkingen</Name>
@@ -5880,8 +5405,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>90.5</ID>
 							<Name>terreinvoorzieningen; werktuigbouwkundig</Name>
@@ -5941,8 +5464,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>90.6</ID>
 							<Name>terreinvoorzieningen; elektrotechnisch</Name>
@@ -5996,8 +5517,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>90.7</ID>
 							<Name>terreininrichtingen; standaard</Name>
@@ -6033,8 +5552,6 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>								
 						<Item>
 							<ID>90.8</ID>
 							<Name>terreininrichtingen; bijzonder</Name>
@@ -6064,11 +5581,3 @@
 									<Description/>
 									<Children/>
 								</Item>
-							</Children>
-						</Item>
-			</Children>
-		</Item>	
-	</Items>	
-	</System>
-	</Classification>
-</BuildingInformation>
